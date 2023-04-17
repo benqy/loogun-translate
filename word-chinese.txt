@@ -124,7 +124,7 @@
 通过捐赠合成材料获得 {0}
 你拥有 {0}
 货币数量
-你没有足够的 {0} 执行此操作。
+你没有足够的 {0} 执行此操作.
 左下方
 右下方
 左上方
@@ -271,8 +271,8 @@ N/A
 {0} 属性点
 锁定直到100级
 选择一个职业！
-{0} 天，{1} 小时，{2} 分钟和 {3} 秒
-{0} 小时，{1} 分钟和 {2} 秒
+{0} 天,{1} 小时,{2} 分钟和 {3} 秒
+{0} 小时,{1} 分钟和 {2} 秒
 {0} 分钟和 {1} 秒
 {0} 秒
 装备菜单
@@ -347,11 +347,11 @@ Boss宝箱稀有度：
 显示挑战完成：
 显示成就完成：
 游戏保存成功！
-无法保存游戏。
+无法保存游戏.
 您确定要将所有设置重置为默认值吗？
 删除存档数据
-您确定要删除当前的存档数据吗？此操作是不可逆转的。
-设置中有未保存的更改。您想保存这些更改吗？
+您确定要删除当前的存档数据吗？此操作是不可逆转的.
+设置中有未保存的更改.您想保存这些更改吗？
 保存游戏并返回主菜单？
 高级设置
 装备菜单：
@@ -363,7 +363,7 @@ Boss宝箱稀有度：
 {0}已死亡！
 {0}已{1}
 任务失败！
-前往{0}的任务已{1}。所有队员都处于{2}状态
+前往{0}的任务已{1}.所有队员都处于{2}状态
 {0} - {1}已达到精通等级{2}
 {0}技能已解锁！
 {0}已学会如何使用{1}技能
@@ -380,18 +380,18 @@ Boss宝箱稀有度：
 {0}升级！
 您与{0}的声望等级提高到了{1}！
 升阶挑战
-完成{0}以解锁{1}。
-建造{0} {1}以解锁任务等级缩放。
-升级名称，{1}
-在{2}中达到角色等级{0}和专业水平{1}，以解锁{3}。
-在{2}、{3}和{4}中达到角色等级{0}和专业水平{1}，以解锁{5}。
+完成{0}以解锁{1}.
+建造{0} {1}以解锁任务等级缩放.
+升级名称,{1}
+在{2}中达到角色等级{0}和专业水平{1},以解锁{3}.
+在{2}、{3}和{4}中达到角色等级{0}和专业水平{1},以解锁{5}.
 {0}抗性
 每秒伤害
 使用{0}每秒平均造成的伤害量
 平均伤害
 每个{0}平均造成的伤害量
 攻击间隔时间
-每个{0}所需的时间，以秒为单位
+每个{0}所需的时间,以秒为单位
 冷却时间
 防御
 角色有效血量的表示
@@ -400,7 +400,7 @@ Boss宝箱稀有度：
 伤害倍增器
 倍增所有造成的伤害
 有多个 {0} 的来源：通用、直接、范围、首领和满状态
-每个 {0} 的来源互相之间是倍增的。例如 {1} 更多伤害和 {2} 更多伤害会给予总共 {3} 更多伤害。
+每个 {0} 的来源互相之间是倍增的.例如 {1} 更多伤害和 {2} 更多伤害会给予总共 {3} 更多伤害.
 直接伤害倍增器
 倍增所有造成的直接伤害
 范围伤害倍增器
@@ -408,9 +408,9 @@ Boss宝箱稀有度：
 伤害
 修改所有造成的伤害
 增加的伤害
-有多个 {0} 的来源：伤害、近战、远程、魔法、物理、火焰、冰冻、闪电、奥术、元素和持续伤害。
-每个 {0} 的来源相互叠加。例如 {1} 伤害和 {2} 物理伤害将给予所有物理攻击 {3} 伤害。
-{0} 值仅对具有相应伤害类型的技能和能力提供其效益。
+有多个 {0} 的来源：伤害、近战、远程、魔法、物理、火焰、冰冻、闪电、奥术、元素和持续伤害.
+每个 {0} 的来源相互叠加.例如 {1} 伤害和 {2} 物理伤害将给予所有物理攻击 {3} 伤害.
+{0} 值仅对具有相应伤害类型的技能和能力提供其效益.
 近战伤害
 修改使用技能造成的所有近战伤害
 远程伤害
@@ -433,63 +433,63 @@ Boss宝箱稀有度：
 修改所有元素伤害
 攻击速度
 修改使用技能的时间
-修改每个技能或能力的施放时间。
+修改每个技能或能力的施放时间.
 攻击速度倍增器
 倍增攻击速度
-{0} 增加 {1} 属性的值，增加的数值为所示。
+{0} 增加 {1} 属性的值,增加的数值为所示.
 暴击几率
 修改暴击率
-{0} 修改了暴击几率。暴击比普通攻击造成更多的伤害。
-{0} 降低攻击者的 {1} 值，降低的数值为所示。
-默认情况下，持续伤害效果无法造成暴击。
+{0} 修改了暴击几率.暴击比普通攻击造成更多的伤害.
+{0} 降低攻击者的 {1} 值,降低的数值为所示.
+默认情况下,持续伤害效果无法造成暴击.
 暴击伤害
 修改暴击造成的伤害
-当发生暴击时，攻击的伤害将增加暴击伤害值。
-例如，使用 {0} 暴击伤害值的暴击攻击将造成双倍的伤害。
-{0} 减少每次受到暴击的 {1}。
+当发生暴击时,攻击的伤害将增加暴击伤害值.
+例如,使用 {0} 暴击伤害值的暴击攻击将造成双倍的伤害.
+{0} 减少每次受到暴击的 {1}.
 双倍伤害
 造成双倍伤害的几率
-{0} 和 {1} 提供了技能或能力造成双倍或三倍普通伤害的几率。
+{0} 和 {1} 提供了技能或能力造成双倍或三倍普通伤害的几率.
 生命值
 修改最大生命值
 角色的最大生命值
-{0} 按固定数值修改最大生命值。
-{0} 按数值属性的百分比修改最大生命值。每个 {1} 的来源之间是相乘关系。
+{0} 按固定数值修改最大生命值.
+{0} 按数值属性的百分比修改最大生命值.每个 {1} 的来源之间是相乘关系.
 生命值倍增器
 修改最大生命值
 生命回复
 每秒回复的生命值
-{0} 使每秒回复固定数量的生命值。
-{0} 使每秒回复最大生命值的一定比例。
+{0} 使每秒回复固定数量的生命值.
+{0} 使每秒回复最大生命值的一定比例.
 每秒回复的生命值
 每秒回复的最大生命值百分比
 每秒恢复 {0} 最大生命值
 每秒失去 {0} 最大生命值
 护盾
 在每个战斗阶段开始时提供一个临时的伤害护盾
-护盾上限为最大生命值。不设上限的护盾：{0}
-{0} 在生命值的基础上提供额外的防御层，在每个战斗阶段重置到满值。
-{0} 按其百分比值修改 {1} 数量。
-默认情况下，每个角色的 {0} 不能超过其最大生命值的 50%。
+护盾上限为最大生命值.不设上限的护盾：{0}
+{0} 在生命值的基础上提供额外的防御层,在每个战斗阶段重置到满值.
+{0} 按其百分比值修改 {1} 数量.
+默认情况下,每个角色的 {0} 不能超过其最大生命值的 50%.
 护盾回复
 每秒回复的护盾值
-{0} 使每秒回复固定数量的护盾值。
-{0} 使每秒回复最大护盾值的一定比例。
+{0} 使每秒回复固定数量的护盾值.
+{0} 使每秒回复最大护盾值的一定比例.
 每秒回复的护盾值
 每秒回复的最大护盾值百分比
 每秒恢复 {0} 最大护盾值
 每秒失去最大护盾值的 {0}
 护甲
 减少每次攻击受到的伤害
-{0} 减少每次攻击所受到的伤害。
-{0} 按百分比修改其属性值来调整 {1} 的数值。
+{0} 减少每次攻击所受到的伤害.
+{0} 按百分比修改其属性值来调整 {1} 的数值.
 增加护甲值
 修改护甲评分
 受到的伤害
 乘以所有受到的伤害
-{0} 有多个来源：通用、直接和范围。
-{0} 调整每个技能或能力所受到的伤害数值。
-每种 {0} 的来源相互之间是乘法关系。例如 {1} 受到的伤害减少和 {2} 受到的伤害减少将提供总共 {3} 的受到的伤害减少。
+{0} 有多个来源：通用、直接和范围.
+{0} 调整每个技能或能力所受到的伤害数值.
+每种 {0} 的来源相互之间是乘法关系.例如 {1} 受到的伤害减少和 {2} 受到的伤害减少将提供总共 {3} 的受到的伤害减少.
 直接伤害所受到的伤害
 乘以所有所受到的直接伤害
 范围伤害所受到的伤害
@@ -511,73 +511,73 @@ Boss宝箱稀有度：
 奥术抗性
 减少奥术攻击所受到的伤害
 元素抗性
-增加火焰、冰冻、闪电和奥术抗性。
-这已经计入了统计表中。
+增加火焰、冰冻、闪电和奥术抗性.
+这已经计入了统计表中.
 全局抗性
 减少所有攻击所受到的伤害
-{0} 有多个不同的来源：近战、远程、魔法、物理、火焰、冰冻、闪电、奥术和元素。
-{0} 减少对应伤害类型的所受到的伤害。
-每种单独的 {0} 在减少带有多个伤害类型的攻击伤害时是相乘关系。
+{0} 有多个不同的来源：近战、远程、魔法、物理、火焰、冰冻、闪电、奥术和元素.
+{0} 减少对应伤害类型的所受到的伤害.
+每种单独的 {0} 在减少带有多个伤害类型的攻击伤害时是相乘关系.
 闪避等级
 修改闪避攻击的几率
-{0} 完全修改了闪避攻击的几率，避免了攻击的伤害和效果。
-{0} 按其百分比值修改了 {1}。
+{0} 完全修改了闪避攻击的几率,避免了攻击的伤害和效果.
+{0} 按其百分比值修改了 {1}.
 躲避几率
 修改躲避攻击的几率
-{0} 提供了一定的机会来完全躲避攻击，避免了攻击的伤害和效果。
+{0} 提供了一定的机会来完全躲避攻击,避免了攻击的伤害和效果.
 格挡等级
 通过 {0} 减少被格挡攻击造成的伤害
-{0} 在成功的格挡判定时减少了技能和能力所造成的伤害。
-{0} 按其百分比值修改了 {1}。
+{0} 在成功的格挡判定时减少了技能和能力所造成的伤害.
+{0} 按其百分比值修改了 {1}.
 格挡几率
 修改格挡攻击的几率
-{0} 提供了一定的机会来格挡技能或能力，并减少其所造成的伤害。
+{0} 提供了一定的机会来格挡技能或能力,并减少其所造成的伤害.
 暴击回避
 修改被暴击的几率
 暴击防御
 修改暴击造成的伤害值
 幸运
 增加找到更高稀有度物品的几率
-{0} 按其百分比值修改了找到更高稀有度物品的几率。
-击败怪物时，每个角色提供的 {0} 值会相加以计算小队的 {1}。
+{0} 按其百分比值修改了找到更高稀有度物品的几率.
+击败怪物时,每个角色提供的 {0} 值会相加以计算小队的 {1}.
 运气
 增加找到物品的几率
-{0} 按其百分比值修改了找到物品的几率。
-击败怪物时，每个角色提供的 {0} 值会相加以计算小队的 {1}。
+{0} 按其百分比值修改了找到物品的几率.
+击败怪物时,每个角色提供的 {0} 值会相加以计算小队的 {1}.
 命运
 增加获得经验值的数量
-{0} 修改了获得角色经验的数量。
-击败怪物时，每个角色提供的 {0} 值会相加以计算小队的 {1}。
+{0} 修改了获得角色经验的数量.
+击败怪物时,每个角色提供的 {0} 值会相加以计算小队的 {1}.
 财富
 增加获得的黄金数量
-{0} 修改了找到的金币数量。
-在杀死怪物时，每个角色提供的 {0} 会相加以计算全队 {1}。
+{0} 修改了找到的金币数量.
+在杀死怪物时,每个角色提供的 {0} 会相加以计算全队 {1}.
 所有奖励
 增加运气、财富、命运和财富
-{0} 修改了 {1}、{2}、{3} 和 {4} 的值。
+{0} 修改了 {1}、{2}、{3} 和 {4} 的值.
 屏障倍增器
 修改最大屏障值
 提高闪避评级
 修改闪避评级
 避免异常状态
 修改受到异常状态的几率
-{0} 有多个额外形式：{1}、{2}、{3}、{4} 和 {5}。
-{0} 减少了每种异常状态被施加的几率。避免值可提高至100％，使每种异常状态免疫。
+{0} 有多个额外形式：{1}、{2}、{3}、{4} 和 {5}.
+{0} 减少了每种异常状态被施加的几率.避免值可提高至100％,使每种异常状态免疫.
 避免昏迷
 修改受到昏迷几率
 {0} 授予免疫昏迷效果的几率
 适应性伤害
 增加基础武器伤害
-授予平坦伤害加成，根据装备的武器攻击速度进行缩放。
+授予平坦伤害加成,根据装备的武器攻击速度进行缩放.
 标准化为2.0秒武器攻击速度
-{0} 基于武器攻击速度为 {1} 秒。攻击速度越快，伤害加成越少，攻击速度越慢，伤害加成越多。
-结果是，不论装备武器的速度如何，{0} 都会提供相同的伤害加成。
+{0} 基于武器攻击速度为 {1} 秒.攻击速度越快,伤害加成越少,攻击速度越慢,伤害加成越多.
+结果是,不论装备武器的速度如何,{0} 都会提供相同的伤害加成.
 装甲穿透
 攻击时降低目标的护甲
-{0} 有效地减少了目标的 {1}。
-{0} 有多个来源：物理、火焰、冰霜、闪电、奥术和元素。
-{0} 有效地减少了目标的 {1}。
-所有 {0} 的来源都是角色特定的。
+{0} 有效地减少了目标的 {1}.
+{0} 有多个来源：物理、火焰、冰霜、闪电、奥术和元素.
+{0} 有效地减少了目标的 {1}.
+所有 {0} 的来源都是角色特定的.
 物理穿透
 攻击时降低目标的物理抗性
 火焰穿透
@@ -594,10 +594,10 @@ Boss宝箱稀有度：
 攻击时降低目标物理和元素抗性
 冷却时间缩短
 减少技能冷却时间
-{0} 修改技能和能力的冷却时间。
+{0} 修改技能和能力的冷却时间.
 失衡
 直接伤害的百分比在10秒内造成
-在10秒内造成 {0} 的直接伤害。
+在10秒内造成 {0} 的直接伤害.
 {0} 造成的直接伤害在10秒内分摊
 三倍伤害
 有几率造成三倍伤害
@@ -615,13 +615,13 @@ Boss宝箱稀有度：
 减少被中毒的几率
 增益持续时间
 增益的持续时间加成
-{0} 修改正面增益效果的持续时间。
+{0} 修改正面增益效果的持续时间.
 负面效果持续时间
 减益的持续时间加成
-{0} 修改负面增益效果的持续时间。
+{0} 修改负面增益效果的持续时间.
 治疗效果
 修改治疗和生命再生的效率
-{0} 修改通过治疗技能或者被动生命再生方式获得的生命值的数量。
+{0} 修改通过治疗技能或者被动生命再生方式获得的生命值的数量.
 Boss 伤害加成
 对Boss造成的所有伤害乘数
 满血时伤害加成
@@ -633,15 +633,15 @@ Boss 伤害加成
 {0} 减少角色受到的 {1} 的效果
 异常状态效果
 增加你的异常状态的伤害和强度
-{0} 增加你的 {1}、{2}、{3} 效果的伤害和增加你的 {4} 和 {5} 效果的强度。
+{0} 增加你的 {1}、{2}、{3} 效果的伤害和增加你的 {4} 和 {5} 效果的强度.
 药剂效果
 增强所使用药剂的效果
 {0} 增强所使用药剂的效果
 毒液
-每次你的技能对目标造成 {0} 效果时，你会获得一层 {1}，最多 {2} 层。
-当你的技能第一次对目标造成 {0} 效果时，你会失去所有 {1} 层。
-你下一次施放 {0} 技能的伤害，将根据失去的 {1} 层数增加 {1} 倍。
-{0} 使得当你的技能对目标造成 {1} 效果时，你获得一层 {0}，最多可叠加 {2} 层。当你的技能第一次对目标造成 {1} 效果时，你的 {1} 技能会根据你失去的 {0} 层数增加更多的伤害，同时你会失去所有的 {0} 层。
+每次你的技能对目标造成 {0} 效果时,你会获得一层 {1},最多 {2} 层.
+当你的技能第一次对目标造成 {0} 效果时,你会失去所有 {1} 层.
+你下一次施放 {0} 技能的伤害,将根据失去的 {1} 层数增加 {1} 倍.
+{0} 使得当你的技能对目标造成 {1} 效果时,你获得一层 {0},最多可叠加 {2} 层.当你的技能第一次对目标造成 {1} 效果时,你的 {1} 技能会根据你失去的 {0} 层数增加更多的伤害,同时你会失去所有的 {0} 层.
 提高对新目标的 {0} 伤害
 照明弹
 瘫痪
@@ -684,7 +684,7 @@ Boss阶段完成：{0}
 林区
 城镇周围广阔的森林
 墓地
-一个废弃的墓地，死者已经复活
+一个废弃的墓地,死者已经复活
 深林
 一个隐藏着可怕秘密的黑暗阴森的森林...
 兽人营地
@@ -702,19 +702,19 @@ Boss阶段完成：{0}
 热带雨林
 深处的致命热带雨林
 动物园
-一个被遗弃的动物园，充满了逃脱的生物
+一个被遗弃的动物园,充满了逃脱的生物
 古代墓穴
 一个被邪恶气息缠绕的古老墓穴
 白骨坟场
 死亡之地的皇宫
 废弃实验室
-一个被遗弃的实验室，充满了可怕的机器
+一个被遗弃的实验室,充满了可怕的机器
 恶魔巢穴
-被地狱之火和硫磺包围，是邪恶之源
+被地狱之火和硫磺包围,是邪恶之源
 迷雾之地
-在世界的边缘，可以找到一个奇怪的土地
+在世界的边缘,可以找到一个奇怪的土地
 符文堡垒
-一个神秘的堡垒，充满了活生生的防御机器
+一个神秘的堡垒,充满了活生生的防御机器
 烟尘遗迹
 龙帝国核心的一座被烧毁的堡垒
 冰冻遗迹
@@ -722,13 +722,13 @@ Boss阶段完成：{0}
 闪电山峰
 龙帝国核心的危险山腰
 现实之缘
-通往扭曲维度的传送门，挑战您的理智
+通往扭曲维度的传送门,挑战您的理智
 龙之巢穴
 龙帝国的权力中心
 深渊
-远超现实之缘，虚空等待着您
+远超现实之缘,虚空等待着您
 无尽之塔
-每一步都令空气变得浓厚，黑暗笼罩着
+每一步都令空气变得浓厚,黑暗笼罩着
 专业水平：{0}
 专业水平：{0} ({1})
 地图专业水平
@@ -739,9 +739,9 @@ Boss阶段完成：{0}
 等级{0}
 完成
 进行中
-一支冒险队伍已经在尝试完成这个赏金任务。
-没有可用的赏金任务存储插槽。
-当有队伍正在尝试完成赏金任务时，无法放弃赏金任务。
+一支冒险队伍已经在尝试完成这个赏金任务.
+没有可用的赏金任务存储插槽.
+当有队伍正在尝试完成赏金任务时,无法放弃赏金任务.
 您是否要花费{0}来放弃这个{1}？
 准备赏金任务
 自动赏金任务
@@ -764,11 +764,11 @@ Boss阶段完成：{0}
 {0} 赏金任务专属物品
 {0} 天敌任务机会
 您确定要重置所有{0}个被动技能吗？
-您没有足够的空闲物品栏来领取{0}的奖励。
+您没有足够的空闲物品栏来领取{0}的奖励.
 声名狂妄等级
 声名狂妄等级：{0}
 花费{0} {1} 达到{2}
-每个{0}增加赏金任务的难度和奖励。
+每个{0}增加赏金任务的难度和奖励.
 {0} 声望
 {0} 未使用的声望
 {0} 总声望
@@ -785,37 +785,37 @@ Boss阶段完成：{0}
 怪物攻击应用 {0}
 虚弱
 虚弱诅咒
-角色受到 {0} 诅咒，减少 {1} 伤害，增加 {2} 暴击几率和 {3} 暴击伤害
+角色受到 {0} 诅咒,减少 {1} 伤害,增加 {2} 暴击几率和 {3} 暴击伤害
 脆弱
 脆弱诅咒
-角色受到{0}的诅咒，减少{1}点护甲和{2}点全抗
+角色受到{0}的诅咒,减少{1}点护甲和{2}点全抗
 迟缓
 迟缓诅咒
-角色受到{0}的诅咒，减少{1}点攻击速度，{2}点闪避值和{3}点躲避几率
+角色受到{0}的诅咒,减少{1}点攻击速度,{2}点闪避值和{3}点躲避几率
 腐朽
 腐朽诅咒
-角色受到{0}的诅咒，减少{1}点治疗效果，并每秒失去{2}点生命值
+角色受到{0}的诅咒,减少{1}点治疗效果,并每秒失去{2}点生命值
 脆弱
 脆弱诅咒
-角色受到{0}的诅咒，使其承受{1}点额外伤害，并获得{2}点异常状态免疫
+角色受到{0}的诅咒,使其承受{1}点额外伤害,并获得{2}点异常状态免疫
 短暂
 短暂诅咒
-角色受到{0}的诅咒，获得{1}点增益效果持续时间和{2}点减益效果持续时间
+角色受到{0}的诅咒,获得{1}点增益效果持续时间和{2}点减益效果持续时间
 屏障
 怪物获得等同于其{0}生命值的{1}护盾
 奥术冲击
 怪物有{0}的几率释放{1}
 怪物有{0}的几率在攻击命中时造成{2}点武器伤害的{1}异常状态
 冰冻
-怪物的攻击对目标造成{0}效果，使其攻击速度降低{1}，持续{2}秒
+怪物的攻击对目标造成{0}效果,使其攻击速度降低{1},持续{2}秒
 电击
-怪物的攻击对目标造成{0}效果，使其在接下来的{2}秒内受到{1}点额外伤害
+怪物的攻击对目标造成{0}效果,使其在接下来的{2}秒内受到{1}点额外伤害
 点燃
-怪物的攻击会对目标施加一个{0}层数，持续{2}秒，每秒造成{1}点武器伤害
+怪物的攻击会对目标施加一个{0}层数,持续{2}秒,每秒造成{1}点武器伤害
 中毒
-怪物的攻击会对目标施加一个{0}层数，持续{2}秒，每秒造成{1}点武器伤害
+怪物的攻击会对目标施加一个{0}层数,持续{2}秒,每秒造成{1}点武器伤害
 流血
-怪物的攻击会对目标施加一个{0}层数，持续{2}秒，每秒造成{1}点武器伤害
+怪物的攻击会对目标施加一个{0}层数,持续{2}秒,每秒造成{1}点武器伤害
 冷却缩减
 暴击防御
 晕眩免疫
@@ -837,13 +837,13 @@ Boss阶段完成：{0}
 元素共和国
 德鲁伊议会
 钢带驻地
-钢带氏族的加固家园。
+钢带氏族的加固家园.
 山足营地
-山足部落高处筑起了自己的栖身之所。
+山足部落高处筑起了自己的栖身之所.
 元素领域
-在地下深处可以找到所有元素的源头。
+在地下深处可以找到所有元素的源头.
 倒塌之环
-曾经伟大文明的扭曲残余。
+曾经伟大文明的扭曲残余.
 派系地下城
 派系地下城
 陌生人
@@ -868,7 +868,7 @@ Boss阶段完成：{0}
 拥有{0}的角色造成{1}额外伤害
 河足保护
 拥有{0}的角色获得{1}咒语保护
-技能名称，{1}
+技能名称,{1}
 流脚敏捷
 拥有{0}的角色攻击速度增加{1}
 流脚狂暴
@@ -904,20 +904,20 @@ III
 IV
 您确定要以{0}购买这些升级吗？
 派系冷却：
-在与{1}获得更多声望后，解锁{0}
+在与{1}获得更多声望后,解锁{0}
 派系技能
 派系技能
 爆炸粉末
-用爆炸粉末覆盖敌人，每次敌人被击中时都会触发
-向目标应用{0}层{1}。被{1}影响的目标将受到{2}武器伤害，并失去一层{1}。
-向目标应用{0}层{1}。被{1}影响的目标将受到{2}武器伤害，并失去一层{1}。作用于{3}个目标。
+用爆炸粉末覆盖敌人,每次敌人被击中时都会触发
+向目标应用{0}层{1}.被{1}影响的目标将受到{2}武器伤害,并失去一层{1}.
+向目标应用{0}层{1}.被{1}影响的目标将受到{2}武器伤害,并失去一层{1}.作用于{3}个目标.
 受到额外的伤害
 持久粉末
 现在{0}应用{1}层
 烟雾弹
-{0}使施法者获得{1}闪避几率，持续{2}秒
+{0}使施法者获得{1}闪避几率,持续{2}秒
 激励
-当受到{0}影响的目标被击败时，每层剩余的冷却时间将减少{1}秒
+当受到{0}影响的目标被击败时,每层剩余的冷却时间将减少{1}秒
 终极冲锋
 {0}的最后一层现在造成{1}武器伤害
 爆炸易伤
@@ -929,64 +929,64 @@ IV
 强效粉末
 每层{0}现在造成{1}武器伤害
 剑刃风暴
-释放一股钢铁旋风，向敌人造成伤害
-作用于{0}个目标。
+释放一股钢铁旋风,向敌人造成伤害
+作用于{0}个目标.
 横扫打击
-每个潜在目标，{0}造成的伤害提高{1}
+每个潜在目标,{0}造成的伤害提高{1}
 锁定利刃
-当只有{2}个潜在目标时，{0}造成的伤害提高{1}
+当只有{2}个潜在目标时,{0}造成的伤害提高{1}
 连续打击
-每次{0}命中一个目标，其冷却时间减少{1}秒
+每次{0}命中一个目标,其冷却时间减少{1}秒
 风暴召唤
-如果{0}只攻击一个目标，其冷却时间设置为{2}秒
+如果{0}只攻击一个目标,其冷却时间设置为{2}秒
 吸血之刃
 {0}治疗使用者最大生命值的{1}
 破碎之刃
 受到{0}影响的目标在{2}秒内造成的伤害减少{1}
 血腥风暴
-对每个目标施加{0}叠加，每叠加造成{1}武器伤害，持续{2}秒
+对每个目标施加{0}叠加,每叠加造成{1}武器伤害,持续{2}秒
 剧毒之刃
-对每个目标施加{0}叠加，每叠加每秒造成{1}武器伤害，持续{2}秒
+对每个目标施加{0}叠加,每叠加每秒造成{1}武器伤害,持续{2}秒
 元素箭
 将所有元素融合成一支强大的箭矢
-{0}使用目标最低的元素抗性。
-{0}使用目标最低的元素抗性。攻击{1}个目标。
-技能名称，{1}
+{0}使用目标最低的元素抗性.
+{0}使用目标最低的元素抗性.攻击{1}个目标.
+技能名称,{1}
 元素协同
 {0}对受{2}或{3}影响的目标造成的伤害增加{1}
 恶劣天气
-{0}施加{1}和{2}，持续{3}秒
+{0}施加{1}和{2},持续{3}秒
 元素命令
 {0}对生命值高于{2}的目标造成的伤害增加{1}
 元素处决
-如果{0}攻击血量低于{1}的目标，其冷却时间将设置为{2}秒。
+如果{0}攻击血量低于{1}的目标,其冷却时间将设置为{2}秒.
 冰冻闪电
-{0}有{1}几率使目标冰冻{2}秒。
+{0}有{1}几率使目标冰冻{2}秒.
 能量箭
-{0}恢复施法者最大护盾值的{1}。
+{0}恢复施法者最大护盾值的{1}.
 火焰箭
-{0}现在应用{1}层效果，每层效果造成{2}点武器伤害，持续{3}秒。
+{0}现在应用{1}层效果,每层效果造成{2}点武器伤害,持续{3}秒.
 分裂箭
-{0}现在可以攻击{1}个额外目标。
+{0}现在可以攻击{1}个额外目标.
 自然祝福
-获得德鲁伊的祝福，提供更强的韧性。
-{0}使你的治疗效果提高{1}，每秒恢复最大生命值的{2}。持续{3}秒。
+获得德鲁伊的祝福,提供更强的韧性.
+{0}使你的治疗效果提高{1},每秒恢复最大生命值的{2}.持续{3}秒.
 自然之力
-受到{0}影响时，造成{1}额外伤害。
+受到{0}影响时,造成{1}额外伤害.
 自然之盾
-受到{0}影响时，承受{1}减少伤害。
+受到{0}影响时,承受{1}减少伤害.
 自然之敏
-受到{0}影响时，攻击速度提高{1}。
+受到{0}影响时,攻击速度提高{1}.
 自然之愈
-当施法者受到直接攻击时，{0}的冷却时间会减少{1}秒。
+当施法者受到直接攻击时,{0}的冷却时间会减少{1}秒.
 自然之愈
-{0}使施法者回复最大生命值的{1}。
+{0}使施法者回复最大生命值的{1}.
 自然之怒
-受到{0}影响时，获得{1}异常状态效果。
+受到{0}影响时,获得{1}异常状态效果.
 自然净化
-{0}将移除施法者身上所有异常状态。
+{0}将移除施法者身上所有异常状态.
 毒性光环
-受到{0}影响时，受到直接攻击后，将对攻击者造成每秒{2}点武器伤害，每层效果持续{3}秒。
+受到{0}影响时,受到直接攻击后,将对攻击者造成每秒{2}点武器伤害,每层效果持续{3}秒.
 布料
 布料
 草药
@@ -1025,13 +1025,13 @@ IV
 用于装备制作和建筑升级的材料
 用于炼金术的材料
 可以被切割成插槽物品的材料
-用于制作和升级 {0} 装备。
+用于制作和升级 {0} 装备.
 稀有度名称
 可用于物品等级 {0}-{1}
-数量，{1}
+数量,{1}
 可用于物品等级 {0}
 数量
-用于修改 {0} 属性。
+用于修改 {0} 属性.
 布碎片
 布碎片
 破布碎片
@@ -1181,7 +1181,7 @@ IV
 灵魂木
 灵魂根
 灵魂根
-一种特殊材料，可用于为任何药水充能
+一种特殊材料,可用于为任何药水充能
 一种用于升级装备的特殊材料
 黑曜石核心
 黑曜石核心
@@ -1197,7 +1197,7 @@ IV
 元素祝福
 德鲁伊祝福
 德鲁伊祝福
-用于祝福装备，增加属性奖励的效果
+用于祝福装备,增加属性奖励的效果
 此物品在等级{0}之前无法装备
 数字
 该副手与您当前的主手武器不兼容
@@ -1813,72 +1813,72 @@ IV
 游侠
 法师
 野蛮人
-每次使用技能攻击目标时，对其施加一层{0}，在{2}秒内造成{1}点技能伤害。
+每次使用技能攻击目标时,对其施加一层{0},在{2}秒内造成{1}点技能伤害.
 嗜血
-对受到{1}影响的目标造成额外{0}伤害。
+对受到{1}影响的目标造成额外{0}伤害.
 先发制人
-在攻击未受到{2}影响的目标后，获得{1}秒的额外{0}攻击速度。
+在攻击未受到{2}影响的目标后,获得{1}秒的额外{0}攻击速度.
 迅捷突袭
-每层{0}或{1}增加{2}攻击速度，持续{3}秒。该效果最多可叠加{4}次。
+每层{0}或{1}增加{2}攻击速度,持续{3}秒.该效果最多可叠加{4}次.
 致命更新
-当目标被击杀时，恢复相当于最大生命值{0}的生命值。
+当目标被击杀时,恢复相当于最大生命值{0}的生命值.
 伤害重创
-获得{0}瘫痪值。
+获得{0}瘫痪值.
 断头台
-获得{0}概率对{2}以下的非boss目标造成{1}效果。
+获得{0}概率对{2}以下的非boss目标造成{1}效果.
 吸血
-每层{1}可使每次攻击回复{0}最大生命值，最多可叠加{2}次。
+每层{1}可使每次攻击回复{0}最大生命值,最多可叠加{2}次.
 奋战不息
-在生命值低于{1}时，受到{0}减伤。
+在生命值低于{1}时,受到{0}减伤.
 不可阻挡的出血
-对受到至少{1}层{2}影响的目标造成额外{0}伤害。
+对受到至少{1}层{2}影响的目标造成额外{0}伤害.
 鲜血洪流
-使用{0}时，对目标造成一层{1}，在{3}秒内造成{2}点技能伤害。
+使用{0}时,对目标造成一层{1},在{3}秒内造成{2}点技能伤害.
 再起之风
-在生命值低于{1}时，获得{0}治疗效果增益。
+在生命值低于{1}时,获得{0}治疗效果增益.
 厚实皮肤
-获得{0}出血免疫。
+获得{0}出血免疫.
 战备突袭
-获得{0}异常状态生效加成。
+获得{0}异常状态生效加成.
 鲜血爆发
-当命中受到{1}影响的目标时，有{0}概率立即造成目标剩余{1}伤害中的{2}伤害，不消耗{1}叠层数。
+当命中受到{1}影响的目标时,有{0}概率立即造成目标剩余{1}伤害中的{2}伤害,不消耗{1}叠层数.
 红雾
-每秒失去{0}最大生命值，但造成额外{1}伤害。
+每秒失去{0}最大生命值,但造成额外{1}伤害.
 战斗技能
-受到区域伤害时减少{0}伤害。
+受到区域伤害时减少{0}伤害.
 最后一搏
-生命值低于{1}时，造成额外{0}伤害。
+生命值低于{1}时,造成额外{0}伤害.
 出血攻击
 对目标应用{0}层会将你的{2}减少{3}秒的{1}
 出血防御
 对目标应用{0}层会将你的{2}减少{3}秒的{1}
 不灭之怒
-在受到致命伤害时，变为{0}对伤害免疫，持续{1}秒。每次任务循环只能发生一次。
+在受到致命伤害时,变为{0}对伤害免疫,持续{1}秒.每次任务循环只能发生一次.
 你对伤害免疫{0}
 不可撼动
 获得你的最大生命值的{0}作为自适应伤害
 沉着打击
-每隔{0}秒，你的下一次攻击造成{1}点额外伤害
+每隔{0}秒,你的下一次攻击造成{1}点额外伤害
 再次打击
 对血量低于{1}的目标造成{0}点额外伤害
 恢复
-受到攻击时，在{1}秒内每秒获得最大生命值的{0}
+受到攻击时,在{1}秒内每秒获得最大生命值的{0}
 坚定不移
-获得{0}更多生命值，但你不能拥有屏障
+获得{0}更多生命值,但你不能拥有屏障
 暴击耐心
 {0}也提供{1}暴击几率
 先发制人
-第一次用技能攻击目标时，造成{0}点额外伤害
+第一次用技能攻击目标时,造成{0}点额外伤害
 谴责
-每次受到攻击，你在{1}秒内造成{0}点额外伤害。该效果最多可以叠加{2}次。
+每次受到攻击,你在{1}秒内造成{0}点额外伤害.该效果最多可以叠加{2}次.
 疲惫姿态
-当生命值低于{0}时，受到的伤害减少{1}
+当生命值低于{0}时,受到的伤害减少{1}
 小心打击
-造成{0}点额外伤害，但攻击速度降低{1}
+造成{0}点额外伤害,但攻击速度降低{1}
 蹒跚一击
-你的攻击有{0}的几率使目标{1}，持续{2}秒，使其受到{3}点额外伤害
+你的攻击有{0}的几率使目标{1},持续{2}秒,使其受到{3}点额外伤害
 强力谴责
-获得{1}层堆叠时，获得{0}倍伤害
+获得{1}层堆叠时,获得{0}倍伤害
 耐力
 获得你的最大生命值的{0}作为全抗性
 重击
@@ -1888,68 +1888,68 @@ IV
 硬化装甲
 获得你的最大生命值的{0}作为护甲评级
 坚定决心
-当生命值低于{1}时，获得{0}的治疗效果增益
+当生命值低于{1}时,获得{0}的治疗效果增益
 自适应装甲
-攻击目标时，每获得{0}点护甲，将其转化为自适应伤害。
+攻击目标时,每获得{0}点护甲,将其转化为自适应伤害.
 超限
-当生命值高于{0}时，你的技能会牺牲{1}最大生命值，造成{2}额外伤害。
+当生命值高于{0}时,你的技能会牺牲{1}最大生命值,造成{2}额外伤害.
 倔强
-每失去{1}点生命值，将减少所受的{0}点伤害。
+每失去{1}点生命值,将减少所受的{0}点伤害.
 紧急防御
-当生命值降至{0}以下时，你的{2}的效果将被重置。该效果每次任务循环只能触发一次。
+当生命值降至{0}以下时,你的{2}的效果将被重置.该效果每次任务循环只能触发一次.
 看守者
-你和你的盟友受到的区域伤害将减少{0}点。
+你和你的盟友受到的区域伤害将减少{0}点.
 反击
-当你成功{0}一次攻击时，下一次攻击将额外造成{1}点伤害。
+当你成功{0}一次攻击时,下一次攻击将额外造成{1}点伤害.
 震慑格挡
-当你成功格挡直接伤害时，将对攻击者造成{1}点伤害，并使其附带{2}秒的特殊效果。
+当你成功格挡直接伤害时,将对攻击者造成{1}点伤害,并使其附带{2}秒的特殊效果.
 重要防御
-每次成功{1}时，你将恢复{0}点最大生命值。
+每次成功{1}时,你将恢复{0}点最大生命值.
 路障
-每次攻击命中时，你会获得{0}点格挡值。该效果持续到你下次成功{1}一次攻击为止。该效果最多可以叠加{2}次。
+每次攻击命中时,你会获得{0}点格挡值.该效果持续到你下次成功{1}一次攻击为止.该效果最多可以叠加{2}次.
 暴击反击
-当你成功{0}一次攻击时，下一次攻击将具有额外的{1}暴击几率。
+当你成功{0}一次攻击时,下一次攻击将具有额外的{1}暴击几率.
 尖刺盾牌
-当你成功格挡直接伤害时，将对攻击者造成{1}点武器伤害。
+当你成功格挡直接伤害时,将对攻击者造成{1}点武器伤害.
 能量防御
-每次成功{1}时，你将恢复{0}点最大护盾值。
+每次成功{1}时,你将恢复{0}点最大护盾值.
 坚固
-每次受到的直接伤害减少{0}点。
+每次受到的直接伤害减少{0}点.
 迅捷反应
-成功{0}一次攻击后，你会获得{1}点攻击速度加成，持续{2}秒。该效果最多可以叠加{3}次。
+成功{0}一次攻击后,你会获得{1}点攻击速度加成,持续{2}秒.该效果最多可以叠加{3}次.
 重击
-对{1}目标造成{0}额外伤害。
+对{1}目标造成{0}额外伤害.
 击倒
-成功格挡直接伤害后，你有{1}几率使攻击者{2}，持续{3}秒。
+成功格挡直接伤害后,你有{1}几率使攻击者{2},持续{3}秒.
 深度格挡
-成功{2}一次攻击后，你会获得{0}点格挡等级加成，持续{1}秒。
+成功{2}一次攻击后,你会获得{0}点格挡等级加成,持续{1}秒.
 转移打击
-对受到{1}效果影响的目标造成{0}额外伤害。
+对受到{1}效果影响的目标造成{0}额外伤害.
 挑衅
-攻击会使目标{0}，持续{1}秒。
+攻击会使目标{0},持续{1}秒.
 暴击格挡
-成功格挡直接伤害后，你有{1}几率完全抵消攻击。
+成功格挡直接伤害后,你有{1}几率完全抵消攻击.
 频繁格挡
-每次格挡也会额外获得{1}点格挡值。
+每次格挡也会额外获得{1}点格挡值.
 剑盾连击
-每拥有{1}点格挡值，你的攻击就会额外造成{0}点伤害。
+每拥有{1}点格挡值,你的攻击就会额外造成{0}点伤害.
 战斗喘息
-成功格挡直接伤害后，你可以减少一名盟友{2}的{1}时间，效果持续{0}秒。
+成功格挡直接伤害后,你可以减少一名盟友{2}的{1}时间,效果持续{0}秒.
 暴击重生
-成功完全抵消攻击后，你将随机解除一个异常状态。
+成功完全抵消攻击后,你将随机解除一个异常状态.
 队伍治疗
-每次受到区域伤害时，你可以治疗所有盟友，治疗量为你最大生命值的{0}。
+每次受到区域伤害时,你可以治疗所有盟友,治疗量为你最大生命值的{0}.
 刺客
-首次攻击命中目标时，施加一个{0}层数，每秒造成{1}的标准化武器伤害，持续永久。
-毒药，{0}
+首次攻击命中目标时,施加一个{0}层数,每秒造成{1}的标准化武器伤害,持续永久.
+毒药,{0}
 恶性
 对受{1}影响的目标造成{0}更多的伤害
 强效毒药
 对受{1}影响的目标获得{0}双倍伤害
 迅捷打击
-每当你施加一层{0}或{1}，获得{2}攻击速度，持续{3}秒。该效果最多可以叠加{4}次。
+每当你施加一层{0}或{1},获得{2}攻击速度,持续{3}秒.该效果最多可以叠加{4}次.
 亡灵术
-当受到{0}影响的目标被杀死时，恢复{1}最大生命值的生命值。
+当受到{0}影响的目标被杀死时,恢复{1}最大生命值的生命值.
 毒液
 获得{0}毒液
 先发制人
@@ -1957,52 +1957,52 @@ IV
 难以捉摸
 施加一层{0}将会在{2}秒内获得{1}的躲避几率
 幽影
-当受{0}影响的目标被杀死时，恢复{1}最大护盾值的护盾值。
+当受{0}影响的目标被杀死时,恢复{1}最大护盾值的护盾值.
 猝死
-获得 {0} 的几率，对受到 {2} 影响并且生命值低于 {3} 的非首领目标造成 {1} 伤害
+获得 {0} 的几率,对受到 {2} 影响并且生命值低于 {3} 的非首领目标造成 {1} 伤害
 毒素过载
-攻击受到 {1} 影响的目标时，你有 {0} 的几率立即造成 {2} 每秒总伤害的伤害。不会移除任何 {1} 叠加效果
+攻击受到 {1} 影响的目标时,你有 {0} 的几率立即造成 {2} 每秒总伤害的伤害.不会移除任何 {1} 叠加效果
 闪避回复
-当你 {0} 或 {1} 并攻击时，恢复等同于最大生命值 {2} 的生命值和护盾
+当你 {0} 或 {1} 并攻击时,恢复等同于最大生命值 {2} 的生命值和护盾
 暗影斗篷
-当受到 {0} 影响的目标死亡时，你会在 {2} 秒内承受 {1} 较少的范围伤害
+当受到 {0} 影响的目标死亡时,你会在 {2} 秒内承受 {1} 较少的范围伤害
 准备攻击
 获得 {0} 状态异常效果
 振奋
-当受到 {0} 影响的目标死亡时，你的 {2} 冷却时间减少 {3} 秒
+当受到 {0} 影响的目标死亡时,你的 {2} 冷却时间减少 {3} 秒
 闪避
-当你 {0} 或 {1} 一次攻击时，你的 {3} 冷却时间减少 {4} 秒
+当你 {0} 或 {1} 一次攻击时,你的 {3} 冷却时间减少 {4} 秒
 黄昏
 {0} 同时增加 {1} 闪避值和 {2} 闪避几率
 炼金术士
 获得 {0} 药剂效果
 暴击毒素
-对受到 {2} 影响的目标，获得 {0} 暴击几率和 {1} 暴击伤害
+对受到 {2} 影响的目标,获得 {0} 暴击几率和 {1} 暴击伤害
 毒素
-当你使用一个 {0} 时，对目标施加一个 {1} 叠加效果，在 {3} 秒内每秒造成 {2} 技能伤害
+当你使用一个 {0} 时,对目标施加一个 {1} 叠加效果,在 {3} 秒内每秒造成 {2} 技能伤害
 影之舞
-当你生命值降至 {0} 以下时，获得 {2} 秒的 {1} 闪避几率。该效果每次任务循环只能发生一次。
+当你生命值降至 {0} 以下时,获得 {2} 秒的 {1} 闪避几率.该效果每次任务循环只能发生一次.
 神射手
-默认攻击获得一个 {0} 叠加效果。每层 {0} 使你造成 {1} 更多伤害。当受到直接攻击时，失去所有的 {0} 叠加效果。最多 {2} 层。
+默认攻击获得一个 {0} 叠加效果.每层 {0} 使你造成 {1} 更多伤害.当受到直接攻击时,失去所有的 {0} 叠加效果.最多 {2} 层.
 专注
 准星
 使用一个 {0} 将会获得 {1} 层 {2} 叠加效果
 急速射击
 每层 {0} 增加 {1} 攻击速度
 强健回复
-当你失去 {0} 时，在接下来的 {2} 秒内造成 {1} 更多伤害
+当你失去 {0} 时,在接下来的 {2} 秒内造成 {1} 更多伤害
 闪避
-当你失去 {0} 时，在接下来的 {2} 秒内获得 {1} 闪避几率
+当你失去 {0} 时,在接下来的 {2} 秒内获得 {1} 闪避几率
 瞄准手
-第一次攻击目标时，额外获得 {0} 层 {1} 叠加效果
+第一次攻击目标时,额外获得 {0} 层 {1} 叠加效果
 无声射击
 对满血目标造成 {0} 更多伤害
 警觉
 每层 {0} 也会使你受到 {1} 较少的范围伤害
 回复
-当受到直接伤害时，每失去 {1} 层 {0} 叠加效果，获得等同于最大生命值 {0} 的 {1} 回复
+当受到直接伤害时,每失去 {1} 层 {0} 叠加效果,获得等同于最大生命值 {0} 的 {1} 回复
 稳健立足
-当受到直接伤害时，你只失去一半的 {0} 叠加效果
+当受到直接伤害时,你只失去一半的 {0} 叠加效果
 致命专注
 每层 {0} 也会增加 {1} 暴击几率
 深度专注
@@ -2012,35 +2012,35 @@ IV
 瞄准射击
 你的暴击有 {0} 的几率额外获得一个 {2} 叠加效果
 攻势重启
-每失去 {3} 层 {0} 叠加效果，你 {1} 的冷却时间减少 {2} 秒
+每失去 {3} 层 {0} 叠加效果,你 {1} 的冷却时间减少 {2} 秒
 神枪手
-当你受到范围伤害时，有 {0} 的几率使攻击者陷入 {2} 秒的 {1} 状态
+当你受到范围伤害时,有 {0} 的几率使攻击者陷入 {2} 秒的 {1} 状态
 重心转移
-每失去 {3} 层 {0} 叠加效果，你 {1} 的冷却时间减少 {2} 秒
+每失去 {3} 层 {0} 叠加效果,你 {1} 的冷却时间减少 {2} 秒
 速度重启
-每失去 {0} 层 {3} 叠加效果，获得 {1} 更多攻击速度，持续 {2} 秒
+失去 {0} 时 ,获得 {1} 更多攻击速度,持续 {2} 秒
 重振集中
-当你达到最大的{0}时，你失去所有的层数。
+当你达到最大的{0}时,你失去所有的层数.
 持久生存
-当你的生命值降至{0}以下时，获得最大的{1}层叠，并恢复{2}最大生命值的治疗量。此效果每个任务只能触发一次。
+当你的生命值降至{0}以下时,获得最大的{1}层叠,并恢复{2}最大生命值的治疗量.此效果每个任务只能触发一次.
 同步闪避
-每层叠加{0}增加{1}闪避率和{2}闪避值。
+每层叠加{0}增加{1}闪避率和{2}闪避值.
 叛逆者
-获得{0}{1}，每层叠加{1}增加{2}伤害和减少{3}伤害。
+获得{0}{1},每层叠加{1}增加{2}伤害和减少{3}伤害.
 暴怒
-当你至少拥有{1}层叠加{2}时，增加{0}伤害。
+当你至少拥有{1}层叠加{2}时,增加{0}伤害.
 迅捷反应
-每次你{0}或{1}攻击时，你会获得{2}攻击速度，持续{3}秒。该效果最多可以叠加{4}次。
+每次你{0}或{1}攻击时,你会获得{2}攻击速度,持续{3}秒.该效果最多可以叠加{4}次.
 驱逐
-当你的生命值降至{0}以下时，失去所有的{1}层叠加。
+当你的生命值降至{0}以下时,失去所有的{1}层叠加.
 清洁伤口
-当{0}的一个层叠被移除时，你会被治疗{1}最大生命值和最大护盾值。
+当{0}的一个层叠被移除时,你会被治疗{1}最大生命值和最大护盾值.
 鼓舞人心
-你和你的队友获得{0}更多的生命值和{1}更多的伤害。
+你和你的队友获得{0}更多的生命值和{1}更多的伤害.
 专注心境
-在{1}效果下，增加{0}伤害。
+在{1}效果下,增加{0}伤害.
 模式识别
-被攻击时，获得{0}闪避率，持续到你{1}攻击为止。
+被攻击时,获得{0}闪避率,持续到你{1}攻击为止.
 坚韧防御
 每叠加 {1} 可获得 {0} 疾病免疫
 安全防护
@@ -2048,19 +2048,19 @@ IV
 战斗经验
 每叠加 {1} 可获得 {0} 双倍伤害
 生存专精
-每损失 1% 生命值，可获得 {0} 治疗效果加成
+每损失 1% 生命值,可获得 {0} 治疗效果加成
 闪避技巧
-当移除 {2} 的一层叠加时，可获得 {0} {1} 秒的闪避几率
+当移除 {2} 的一层叠加时,可获得 {0} {1} 秒的闪避几率
 战斗准备
-当移除 {0} 的一层叠加时，{1} 的 {2} 减少 {3} 秒
+当移除 {0} 的一层叠加时,{1} 的 {2} 减少 {3} 秒
 转移打击
 对已受 {1} 影响的目标造成 {0} 更多伤害
 坚定复苏
-当移除 {0} 的一层叠加时，{1} 的 {2} 减少 {3} 秒
+当移除 {0} 的一层叠加时,{1} 的 {2} 减少 {3} 秒
 挑衅
 使攻击 {0} 目标 {1} 秒
 净化惩罚
-攻击时，若已叠加 {1} 的层数超过 {0}，则移除 {2} 层叠加并造成 {3} 更多伤害
+攻击时,若已叠加 {1} 的层数超过 {0},则移除 {2} 层叠加并造成 {3} 更多伤害
 晕眩持续时间
 {0} 晕眩效果的持续时间现在默认为 {1} 秒
 坚韧保护
@@ -2073,23 +2073,23 @@ IV
 元素风暴
 {0} 使你在 {2} 秒内造成 {1} 更多伤害
 震撼爆破
-{0} 现在会使目标获得 {1} 效果，持续 {2} 秒
+{0} 现在会使目标获得 {1} 效果,持续 {2} 秒
 元素屏障
 {0} 使你恢复等同于 {1} 最大生命值的护盾
 冰寒爆破
-{0} 现在会使目标获得 {1} 效果，持续 {2} 秒
+{0} 现在会使目标获得 {1} 效果,持续 {2} 秒
 元素超载
 {0} 使你在 {2} 秒内造成 {1} 更多范围伤害
 抹杀
-{0} 会将非首领目标击杀，当其生命值低于 {2}
+{0} 会将非首领目标击杀,当其生命值低于 {2}
 元素削弱
 对受到 {1}、{2} 或 {3} 影响的目标造成 {0} 更多伤害
 元素新星
-{0} 现在会攻击所有目标，但只造成 {1} 技能伤害
+{0} 现在会攻击所有目标,但只造成 {1} 技能伤害
 闪耀
 获得 {0} 闪耀效果
 元素引燃
-{0} 造成 {1} 更多伤害，并在 {3} 秒内将伤害变成 {2} 伤害
+{0} 造成 {1} 更多伤害,并在 {3} 秒内将伤害变成 {2} 伤害
 冰冷之脉
 {0} 现在会使你获得 {1} 更多攻击速度
 传导
@@ -2105,82 +2105,82 @@ IV
 元素眼
 元素技能增加 {0} 几率造成 {1}
 闪烁
-当你的生命值降至 {0} 以下时，你受到的伤害减少 {1}，并增加 {4} 秒内造成 {3} 的额外 {2} 几率。此效果每次任务循环只能发生一次
+当你的生命值降至 {0} 以下时,你受到的伤害减少 {1},并增加 {4} 秒内造成 {3} 的额外 {2} 几率.此效果每次任务循环只能发生一次
 获得 {0} 触发几率造成 {1}
 元素净化
 {0} 有 {1} 几率从施法者身上移除 {2} 的不利状态
 闪避
 {0} 在 {2} 秒内使你获得 {1} 闪避几率
 大臣
-你的直接攻击 {0} 对非目标造成 {1} 技能伤害。你的范围攻击有 {2} 几率 {0} 对 {4} 目标造成 {3} 技能伤害
+你的直接攻击 {0} 对非目标造成 {1} 技能伤害.你的范围攻击有 {2} 几率 {0} 对 {4} 目标造成 {3} 技能伤害
 回响
 回响的
 能量充能
 能量充能层数
 电击回响
-{0} 攻击会使目标获得 {1} 效果，持续 {2} 秒
+{0} 攻击会使目标获得 {1} 效果,持续 {2} 秒
 回响毁灭
 {0} 攻击有 {1} 几率对生命值低于 {3} 的非首领目标造成 {2} 伤害
 回响恢复
 {0} 攻击命中后恢复最大生命值的 {1}
 寒冰回响
-{0} 攻击会使目标获得 {1} 效果，持续 {2} 秒
+{0} 攻击会使目标获得 {1} 效果,持续 {2} 秒
 视野狭窄
-直接攻击造成额外 {0} 伤害，但不再 {1}
+直接攻击造成额外 {0} 伤害,但不再 {1}
 扩散
-范围攻击造成额外 {0} 伤害，但不再 {1}
+范围攻击造成额外 {0} 伤害,但不再 {1}
 回响续航
 {0} 攻击命中后恢复最大护盾的 {1}
 镜像
-每 {0} 秒召唤一个 {1}，使你对下一次攻击进行 {2}。你只能通过这种方式获得一个 {1} 层数
+每 {0} 秒召唤一个 {1},使你对下一次攻击进行 {2}.你只能通过这种方式获得一个 {1} 层数
 {0} 下一次攻击
 能量生成
-造成直接伤害时获得 {0} 点 {1}，造成范围伤害时获得 {2} 点 {3}。当获得 {4} 层 {1} 后，直接伤害额外造成 {5} 伤害，持续 {6} 秒并失去所有层数
+造成直接伤害时获得 {0} 点 {1},造成范围伤害时获得 {2} 点 {3}.当获得 {4} 层 {1} 后,直接伤害额外造成 {5} 伤害,持续 {6} 秒并失去所有层数
 正在积蓄能量...
 火光
 获得 {0} 点火光
 回响火焰
 {0} 攻击的伤害会在 {2} 秒内平分为 {1}
 幻影
-每移除一个 {0} 层数，恢复最大生命值和护盾的 {1}
+每移除一个 {0} 层数,恢复最大生命值和护盾的 {1}
 强化能量
-如果你没有 {1}，造成额外 {0} 伤害
+如果你没有 {1},造成额外 {0} 伤害
 压倒性力量
-当你拥有至少 {1} 层 {2} 时，你的攻击额外造成 {0} 伤害
+当你拥有至少 {1} 层 {2} 时,你的攻击额外造成 {0} 伤害
 元素虚弱
 对受到 {1}、{2} 或 {3} 效果影响的目标造成额外 {0} 伤害
 视野狭窄
-当你失去 {2} 时，获得 {0} 闪避几率，持续 {1} 秒
+当你失去 {2} 时,获得 {0} 闪避几率,持续 {1} 秒
 回响突袭
 {0} 攻击会减少你的 {2} {1} 的持续时间 {3} 秒
 众志成城
-当你拥有至少 {1} 层 {2} 时，你的攻击额外造成 {0} 伤害
+当你拥有至少 {1} 层 {2} 时,你的攻击额外造成 {0} 伤害
 镜像克隆
-当你的生命值降至 {0} 以下时，获得 {1} 层额外的 {2} 层数。该效果每次任务循环只能触发一次
+当你的生命值降至 {0} 以下时,获得 {1} 层额外的 {2} 层数.该效果每次任务循环只能触发一次
 回响保护
 {0}的攻击使你的{1}减少{3}秒
 战斗法师
-每次承受伤害时，回复相当于伤害值{0}的护盾值
+每次承受伤害时,回复相当于伤害值{0}的护盾值
 能量打击
-当你有护盾时，造成{0}更多的伤害
+当你有护盾时,造成{0}更多的伤害
 能量壁垒
 额外获得{0}护盾值
 能量保护
-当你有护盾时，受到的伤害减少{0}
+当你有护盾时,受到的伤害减少{0}
 能量恢复
 你的攻击每次命中可以恢复相当于最大生命值和护盾值{0}的值
 清算
-当你受到直接伤害时，你的下一次攻击造成{0}更多的伤害
+当你受到直接伤害时,你的下一次攻击造成{0}更多的伤害
 风暴之盾
-当你受到直接伤害时，对攻击者造成{0}效果，持续{1}秒
+当你受到直接伤害时,对攻击者造成{0}效果,持续{1}秒
 无坚不摧
-当你有护盾时，获得{0}减少异常状态的几率
+当你有护盾时,获得{0}减少异常状态的几率
 神圣裂缝
-{0}的伤害将直接作用于生命值，而不受护盾保护
+{0}的伤害将直接作用于生命值,而不受护盾保护
 迅捷打击
-拥有护盾时，获得{0}更多攻击速度
+拥有护盾时,获得{0}更多攻击速度
 回复光环
-当你通过拦截回复护盾时，你的盟友会恢复相应量的{0}
+当你通过拦截回复护盾时,你的盟友会恢复相应量的{0}
 能量储存
 你的最大护盾不会受到生命值上限的限制
 神圣再生
@@ -2188,16 +2188,2986 @@ IV
 转移打击
 对被{1}影响的目标造成{0}额外伤害
 能量补充
-在你有护盾的情况下攻击目标，会减少你的{1}{0}秒的冷却时间
+在你有护盾的情况下攻击目标,会减少你的{1}{0}秒的冷却时间
 挑衅
 你的攻击会让目标被{0}秒挑衅
 闪避
-被攻击后，获得{1}秒{0}的闪避几率
+被攻击后,获得{1}秒{0}的闪避几率
 集中能量
-如果你的护盾比生命值更高，额外造成{0}的伤害
+如果你的护盾比生命值更高,额外造成{0}的伤害
 能量之刃
 你的技能会消耗你最大护盾的{0}来作为自适应伤害
 符文抵抗
 获得你最大护盾的{0}作为全抗性
 紧急护盾
-当你的护盾降至{0}时，你会立刻获得你最大护盾的{1}。此效果每个任务循环只能触发一次。
+当你的护盾降至{0}时,你会立刻获得你最大护盾的{1}.此效果每个任务循环只能触发一次.
+Lesser
+Minor
+Normal
+Major
+Greater
+Grand
+Small
+Medium
+Normal
+Large
+Huge
+Gigantic
+{0} chance to not consume Charges on use.
+Flask Of Healing
+Healing
+When a Character is damaged to below {0} HP they are instantly healed for {1} of Max HP. Can be used a maximum of {2} times per Mission Loop. Uses {3} Charges.
+Flask Of Wealth
+Wealth
+Grants each Character {0} Wealth for the Mission Loop. Uses {1} Charges.
+Flask Of Armour
+Armour
+Grants each Character {0} Armour for the Mission Loop. Uses {1} Charges.
+Flask Of Power
+Power
+Grants each Character {0} Double Damage for the Mission Loop. Uses {1} Charges.
+Flask Of Resistance
+Resistance
+Grants each Character {0} All Resistance for the Mission Loop. Uses {1} Charges.
+Flask Of Strength
+Strength
+Flask effect causes each Character to deal {0} More Damage for the Mission Loop. Uses {1} Charges.
+Flask Of Speed
+Speed
+Grants each Character {0} Attack Speed for the Mission Loop. Uses {1} Charges.
+Flask Of Resurrection
+Resurrection
+When a Character dies it is restored to {0} of Max HP. Can be used {1} time per Mission Loop. Uses {2} Charges.
+Flask Of Luck
+Luck
+Grants each Character {0} Luck for the Mission Loop. Uses {1} Charges.
+Flask Of Fortune
+Fortune
+Grants each Character {0} Fortune for the Mission Loop. Uses {1} Charges.
+Flask Of Protection
+Protection
+Flask effect causes each Character to take {0} Less Damage for the Mission Loop. Uses {1} Charges.
+Flask Of Barrier
+Barrier
+Grants each Character Barrier equal to {0} of Max HP for the Mission Loop. Uses {1} Charges.
+Flask Of Regeneration
+Regeneration
+Flask effect causes each Character to regenerate {0} of Max HP each second for the Mission Loop. Uses {1} Charges.
+Flask Of Abrasion
+Abrasion
+Grants each Character {0} Physical and Elemental Penetration for the Mission Loop. Uses {1} Charges.
+General
+Combat
+Currency
+Crafting
+Materials
+Upgrades
+Collections
+Bounties
+Hero
+Raise a Character to Level {0}.
+Duellist
+Raise a Skill to Mastery Level {0}.
+Ascendant
+Raise a Character to Ascendancy Level {0}.
+Master Looter
+Loot or Auto Scrap {0} Equipment.
+Mythical Hunter
+Loot or Auto Scrap {0} Mythical Equipment.
+Master Scrapper
+Scrap or Auto Scrap {0} Items.
+Mythical Strength
+Equip {0} Mythical Item.
+Gem Strength
+Socket {0} Gem.
+Gem Bonus
+Complete {0} Gem Set Bonus.
+Boss Slayer
+Slay {0} Bosses.
+Well Travelled
+Reach Expertise Level {0} with a Map.
+Woodlands Hero
+Defeat the Goblin Brute {0} times.
+Graveyard Hero
+Defeat the Skeleton Juggernaut {0} times.
+Deep Forest Hero
+Defeat the Spider Queen {0} times.
+Orc Camp Hero
+Defeat the Orc Chieftain {0} times.
+Goblin Camp Hero
+Defeat the Goblin Mage {0} times.
+Rock Cave Hero
+Defeat the Stone Behemoth {0} times.
+Scorched Plains Hero
+Defeat the Phoenix {0} times.
+Frigid Wasteland Hero
+Defeat the Frost Giant {0} times.
+Jungle Ruins Hero
+Defeat the Jungle Dragon {0} times.
+Rainforest Hero
+Defeat the Living Monstrosity {0} times.
+Menagerie Hero
+Defeat the Cockatrice {0} times.
+Ancient Tomb Hero
+Defeat the Vampire Lord {0} times.
+Boneyard Slayer
+Defeat the Skeleton King {0} times.
+Abandoned Lab Hero
+Defeat the Arachnadroid {0} times.
+Demons Lair Hero
+Defeat the Prime Evil {0} times.
+Mistlands Hero
+Defeat the Pestilence {0} times.
+Runic Bastion Hero
+Defeat the Runic Lord {0} times.
+Smouldering Ruins Hero
+Defeat the Lord of Fire {0} times.
+Frozen Ruins Hero
+Defeat the Lord of Ice {0} times.
+Lightning Peaks Hero
+Defeat the Lord of Thunder {0} times.
+Edge of Reality Hero
+Defeat the Eldritch Abomination {0} times.
+Dragons Lair Hero
+Defeat the Dragon Emperor or Empress {0} times.
+The Abyss Hero
+Defeat the Abyss Walker {0} times.
+Endless Spires
+Clear {0} consecutive floors on the Endless Spires.
+Wealthy
+Obtain {0} Gold Coins.
+Philanthropist
+Obtain {0} Donation Credits.
+Lapidary
+Obtain {0} Rubies.
+Bountiful
+Obtain {0} Soul Orbs.
+Master Crafter
+Craft {0} Items.
+Frequent Reroller
+Reroll the attributes of an Item {0} times.
+Frequent Randomiser
+Randomise the attribute ranks of an item {0} times.
+Precision Crafting
+Lock an attribute {0} times.
+Attribute Strength
+Upgrade an attribute {0} times.
+Master Enchanter
+Apply {0} Enchants to Items.
+Librarian
+Loot {0} Enchant Recipe Scrolls.
+Alchemist
+Craft {0} Flasks.
+Reuse
+Refill {0} Flask.
+Master Gatherer
+Gather {0} Materials from Professions.
+Generous
+Allocate {0} Community Upgrades.
+Tool Finder
+Loot or Auto Scrap {0} Tools.
+Mythical Tools
+Loot or Auto Scrap {0} Mythical Tools.
+Scrapper
+Upgrade the Scrapper to Rank {0}.
+Blacksmith
+Upgrade the Blacksmith to Rank {0}.
+Barracks
+Upgrade the Barracks to Rank {0}.
+Profession Hall
+Upgrade the Profession Hall to Rank {0}.
+Mine
+Upgrade the Mine to Rank {0}.
+Forest
+Upgrade the Forest to Rank {0}.
+Farm
+Upgrade the Farm to Rank {0}.
+Armoury
+Upgrade the Armoury to Rank {0}.
+Alchemist's Hut
+Upgrade the Alchemist's Hut to Rank {0}.
+Gemcutter's Cabin
+Upgrade the Gemcutter's Cabin to Rank {0}.
+Community Project
+Upgrade the Community Project to Rank {0}.
+Artisan's Hall
+Upgrade the Artisan's Hall to Rank {0}.
+Ancient Reliquary
+Upgrade the Ancient Reliquary to Rank {0}.
+Map Room
+Upgrade the Map Room to Rank {0}.
+Watchtower
+Upgrade the Watchtower to Rank {0}.
+Bounty Board
+Upgrade the Bounty Board to Rank {0}.
+Upgrade Perfection
+Fully Upgrade {0} Buildings.
+Material Master
+Obtain {0} different Materials.
+Mastery Slayer
+Slay {0} different Monsters.
+Weapon Master
+Loot or Craft {0} different Weapons.
+Armour Master
+Loot or Craft {0} different Armours.
+Accessory Master
+Loot or Craft {0} different Accessories.
+Offhand Master
+Loot of Craft {0} different Offhands.
+Gem Master
+Loot or Craft {0} different Gems.
+Highest Peaks
+Loot {0} Jewel Of The Empire.
+Lowest Dungeons
+Loot {0} Heart Of The Abyss.
+Bounty Master
+Complete {0} Bounties.
+Infamous
+Reach Infamy Level {0}.
+Bounty Enchanter
+Obtain {0} different Bounty Enchants.
+Pathfinder
+Obtain {0} different Bounty Exclusive Items.
+Favourable
+Obtain {0} Favour.
+Bounty Reroller
+Reroll Bounties {0} Times.
+Paragon
+Equip {0} Paragon Item.
+Paragon Master
+Upgrade a Paragon Item to Level {0}.
+Castle
+Upgrade the Castle to Rank {0}.
+Keep
+Upgrade the Keep to Rank {0}.
+Extended Agony
+Complete {0} Agony Missions.
+Agony Master
+Complete {0} Agony Missions at Agony Level 10.
+Agony Infusion
+Obtain {0} Bonus Chests from infusing Agony Missions.
+Soul Tool Collector
+Loot or Auto Scrap {0} Soul Tools.
+Soul Tool Perfection
+Loot or Auto Scrap {0} Mythical Soul Tools.
+Agony Exclusives
+Obtain {0} different Agony Mission Exclusive Items.
+Agony Enchanter
+Obtain {0} different Agony Mission Enchants.
+Domain of Agony
+Upgrade the Domain of Agony to Rank {0}.
+Fortress
+Upgrade the Fortress to Rank {0}.
+Mastermind Slayer
+Defeat the Mastermind {0} times.
+Risen Goliath Slayer
+Defeat the Risen Goliath {0} times.
+Reinforcement
+Reinforce an Item to Level {0}.
+Divinity
+Equip {0} Divine Item.
+Divine Collector
+Loot or Auto Scrap {0} different Divine Items.
+Dungeon Frequenter
+Complete {0} Faction Dungeons.
+Warcamp
+Upgrade the Warcamp to Rank {0}.
+Steelband Slayer
+Defeat Byron Steelband {0} times.
+Steelband Vanquisher
+Defeat Lord Steelband {0} times.
+Hillstrider Slayer
+Defeat the Hillstrider Brute {0} times.
+Hillstrider Vanquisher
+Defeat Chieftain Hillstrider {0} times.
+Elemental Slayer
+Defeat the Hailstone Juggernaut {0} times.
+Elemental Vanquisher
+Defeat the Obsidian Juggernaut {0} times.
+Fallen Slayer
+Defeat the Fallen Sorcerer {0} times.
+Fallen Vanquisher
+Defeat the Fallen Champion {0} times.
+Dwarven Hero
+Raise your Dwarven Rebellion reputation to Rank {0}.
+Riverfoot Hero
+Raise your Riverfoot Clan reputation to Rank {0}.
+Elemental Hero
+Raise your Elemental Conclave reputation to Rank {0}.
+Druidic Hero
+Raise your Druidic Council reputation to Rank {0}.
+Blessed
+Grant an Item the Blessing of {0} different Factions
+Mining
+Forestry
+Skinning
+Scavenging
+Farming
+Mining Pick
+Lumber Axe
+Skinning Knife
+Scavenging Gloves
+Sickle
+Used to gather {0} resources
+Default {0}
+Soul Pick
+Soul Axe
+Soul Knife
+Soul Gloves
+Soul Sickle
+Double Resource Chance
+Chance to harvest double resources
+Resources Per Harvest
+Gain additional Resources per Harvest
+Gold Per Harvest
+Gold gained per Harvest
+Rare Harvest Chance
+Increases the chance to have a Rare Harvest chance
+Rare Resources Per Rare Harvest
+Gain additional Rare Resources per Rare Harvest
+Soul Material Chance
+Increases the chance to find Soul Materials with each Harvest
+Unlocks after constructing the {0} {1}.
+Unlocks after reaching Level {0} with a Character.
+Scrapper
+Unlocks when {0} items are obtained or the {1} Boss is defeated.
+Unlocks access to the {0} allowing items to be scrapped for raw materials.
+Unlocks additional Fill All options for the {0}.
+Unlocks the ability to automatically scrap {0} items.
+Grants a {0} chance to find an additional Upgrade Core when scrapping equipment.
+Blacksmith
+Unlock access to the {0} and the ability to craft equipment.
+Unlock the ability to {0}.
+Unlock the ability to {0} and Craft {1} Equipment.
+Grants a {0} chance for {1} to provide an additional rank.
+Barracks
+Unlocks after defeating the {0} Boss.
+Unlock the {0} panel granting the ability to set the {1} for each Character.
+Unlock the {0} setting for {1} and additional {2} options.
+Upgrade the {0} to unlock more Tactics options.
+Profession Hall
+Unlock the {0}, {1}, and {2} Upgrade Buildings.
+Increases the {0} by {1}.
+Mine
+Forest
+Farm
+Unlocks the {0} Profession and grants the ability to craft {0} Tools.
+Unlocks an additional {0} slot and grants access to higher tier materials.
+Unlocks the {0} and {1} Professions and grants the ability to craft {0} and {1} Tools.
+Unlocks an additional {0} and {1} slot and grants access to higher tier materials.
+Gemcutter's Cabin
+Unlocks after scrapping an item with sockets.
+Unlock the ability to craft {0} at the {1}.
+Unlock the ability to {0} at the {1}.
+Grants each {0} slain at Level {1} the chance to drop a {2}.
+Unlocks a setting to automatically max the sockets of each piece of gear that you equip should you have the required materials. This setting is found on the {0} on the {1} and is Character specific.
+ Gem Tab, {1} 
+Map Room
+Unlock the ability to scale all {0} to your current max level.
+Increases {0} by {1}.
+Unlocks new {0} Upgrades that grant improved rewards.
+Ancient Reliquary
+Grants a {0} chance to find a Bonus Stage after completing a Mission Stage. Bonus Stages contain a {1} that if slain in time will drop {2} item of {3} or better quality. Unlocks new mission expertise upgrades.
+Grants an additional {0} chance to find a Bonus Stage after completing a Mission Stage.
+When a {0} is slain it will drop an additional {1} item of {2} or better quality.
+Watchtower
+Unlocks after defeating a {0} Monster.
+Gain an additional {0} chance for each Monster to spawn as {1}.
+{0} Attributes can now roll up to Rank {1}.
+{0} Items can now roll with up to {1} {2} Attributes.
+{0} Bosses can now drop {1} Reward Chests.
+Community Project
+Unlock the ability to donate spare Materials for {0}.
+Unlocks the ability to purchase {0} with {1}.
+Overflow Materials are automatically donated.
+Unlock the ability to set an Auto Donation Threshold for each Material
+Alchemist's Hut
+Unlocks the ability to craft Basic {0}.
+Unlocks the ability to upgrade the Strength of {0}.
+Unlocks the ability to upgrade the Capacity of {0}.
+Unlocks the ability to create Advanced {0}.
+Unlocks an additional {0}.
+Unlocks the ability to automatically refill {0}.
+Armoury
+Unlocks a mission {0} Slot.
+Unlocks an additional {0} Slot.
+Artisan's Hall
+Unlocks the ability to automatically open {0}. This can be set from the Bag Settings Menu.
+Unlocks the ability to automatically scrap {0} and {1} Items.
+Unlocks the ability to {0} at the {1}.
+Unlocks the ability to {0} at the {1}.
+Bounty Board
+Unlocks the ability to run {0} from the Mission Menu.
+Unlocks an additional {0} {1} Slots and grants the ability to auto claim {2} rewards.
+Unlocks an additional {0} {1} Slots.
+Castle
+{0} Items now roll with a minimum of {1} {2} Attributes.
+{0} Attributes now roll with a minimum rank of {1}
+Unlock the ability to perform a {0} at the {1} which converts an item into a {2} item.
+ Craft Name, {1} 
+Keep
+Unlocks after scrapping a {0} Item.
+Unlocks the ability to {0} at the {1} up to maximum of Level {2}.
+Unlocks the ability to upgrade {0} items up to a maximum of Level {1}.
+Domain of Agony
+Unlocks after completing a {0} at Infamy Level {1} or higher.
+Unlocks the ability to run {0} from the Mission Menu. Unlocks the ability to {1} at the {2}
+Unlocks an additional {0} {1} Slots.
+Fortress
+Unlocks after upgrading the {0} to {1} and defeating an {2}. {3} can be found in {4} starting at {5}+
+{0} Items now roll with a minimum of {1} {0} Attributes.
+{0} Attributes now roll with a minimum rank of {1}
+{0} Attributes can now roll up to rank {1}
+Unlocks the ability to {0} at the {1}
+Unlocks the ability to {0} at the {1}
+War Camp
+Unlocks after completing an {0} at {1}.
+Grants access to {0} from the Mission Menu. {0} grant additional Skills, Character Power and access to new Dungeons.
+Gain {0} More {1} from {2}
+Gain {0} More {1} from {2} and unlock the {3} Craft at the {4}
+Rat
+Wolf
+Goblin Grunt
+Skeleton Warrior
+Skeleton Archer
+Forest Spider
+Bear
+Orc Scout
+Orc Brute
+Goblin Envoy
+Orc Grunt
+Boglin
+Stone Golem
+Stone Juggernaut
+Frost Golem
+Flame Golem
+Sand Wurm
+Desert Locust
+Starving Lion
+Arctic Wolf
+Yeti
+Polar Bear
+Crocodile
+Kappa
+Jungle Beetle
+Witch Doctor
+Blue Viper
+Fanatic
+Mutant Snail
+Hound
+Elephant
+Goat
+Ox
+Banshee
+Wight
+Zombie
+Mummy
+Skeleton Rogue
+Skeleton Knight
+Sentry Bot
+Lab Assistant
+Reinforced Bouncer
+Toxic Sludge
+Demonic Brute
+Trickster
+Skeletal Hound
+Hellcaster
+Cyclops
+Gremlin
+Void Caller
+Living Sentry
+Living Knight
+Living Archer
+Arctic Bat
+Ground Beetle
+Lesser Drake
+Whelp
+Imp
+Eyestalk
+Winged Horror
+Scaleback
+Razorwing
+Forgotten Ranger
+Forgotten Warrior
+Forgotten Mage
+Treasure Dummy
+Goblin Brute
+Skeleton Juggernaut
+Spider Queen
+Goblin Mage
+Orc Chieftain
+Stone Behemoth
+Phoenix
+Frost Giant
+Jungle Dragon
+Living Monstrosity
+Cockatrice
+Vampire Lord
+Skeleton King
+Arachnadroid
+Prime Evil
+Pestilence
+Runic Lord
+Lord Of Ice
+Lord Of Fire
+Lord Of Thunder
+Eldritch Abomination
+Dragon Emperor
+Dragon Empress
+Abyss Walker
+Warped Stalker
+Warped Cultist
+Warped Grunt
+Warped Assassin
+Warped Voidlord
+Warped Aberration
+Mastermind
+Risen Goliath
+Steelband Brawler
+Steelband Archer
+Steelband Vizier
+Steelband Juggernaut
+Byron Steelband
+Lord Steelband
+Hillstrider Warlock
+Hillstrider Butcher
+Hillstrider Stalker
+Hillstrider Hoarder
+Hillstrider Brute
+Chieftain Hillstrider
+Firelord
+Waterlord
+Voidlord
+Ancient One
+Hailstone Juggernaut
+Obsidian Sentinel
+Fallen Warder
+Fallen Scout
+Fallen Duellist
+Fallen Gladiator
+Fallen Sorcerer
+Fallen Champion
+Bite
+Slash
+Bash
+Shoot
+Shadow Bolt
+Swipe
+Vine Whip
+{0} has a {1} chance to apply a Poison stack dealing {2} Weapon Damage per Second for {3} Seconds.
+Stomp
+Shriek
+Spore
+{0} applies a stack of Poison to the target dealing {1} Weapon Damage per Second for {2} Seconds.
+Leeching Bolt
+{0} applies a stack of Bleed to the target dealing {1} Weapon Damage over {2} Seconds. Heals the caster for {3} of Max HP.
+Plague Bolt
+{0} applies a stack of Poison to the target dealing {1} Weapon Damage per Second for {2} Seconds.
+Frenzy
+{0} applies a buff to the caster granting {1} Attack Speed for {2} Seconds. {3} can stack up to {4} times.
+Frost Breath
+{0} Chills the target for {1} Seconds.
+Fire Breath
+{0} applies a stack of Ignite to the target dealing {1} Weapon Damage over {2} Seconds.
+Lightning Breath
+{0} applies Shock to the target for {1} Seconds.
+Glare
+{0} causes the target for deal {1} Less Damage for {2} Seconds.
+Elemental Breath
+{0} applies a stack of Ignite to the target dealing {1} Weapon Damager over {2} Seconds. Applies Shock and Chill to the target for {3} Seconds. {4} uses the targets lowest Elemental Resistance stat.
+Explosive Shot
+{0} has a {1} chance to apply a stack of Ignite dealing {2} Weapon Damage over {3} Seconds.
+Slam
+Fireball
+Grave Scythe
+{0} grants affected targets {1} {2} for {3} Seconds.
+Escape
+Upon completion {0} causes the caster to be safely removed from combat.
+Rip
+{0} applies a stack of Bleed to the target dealing {1} Weapon Damage over {2} Seconds.
+Venomous Bite
+{0} applies a stack of Poison to the target dealing {1} Weapon Damage per Second for {2} Seconds.
+Shockwave
+{0} hits {1} targets.
+Shield Slam
+{0} has a {1} chance to Stun the target for {2} Seconds.
+ Skill Name, {1} 
+Web Wrap
+{0} Stuns the target for {1} Seconds and grants {2} Attack Speed during Stun Immunity.
+Hex
+{0} applies a debuff to the target causing them to deal {1} Less Damage for {2} Seconds.
+ Skill Name, {1} 
+Call Target
+{0} applies a debuff to the target causing them to take {1} More Damage for {2} Seconds.
+Berserk
+{0} applies a buff to the caster causing them to deal {1} More Damage for {2} Seconds.
+Bargain
+{0} applies a buff to the caster causing them to take {1} Less Damage for {2} Seconds.
+ Skill Name, {1} 
+Roar
+{0} applies a buff to {1} allied targets that causes them to deal {2} More Damage for {3} Seconds.
+ Skill Name, {1} 
+Call For Help
+{0} Summons up to {1} additional ally to aid the caster.
+ Skill Name, {1} 
+Pummel
+{0} has a {1} chance to Stun the target for {2} Seconds.
+Stoneskin
+{0} applies a buff to the caster causing them to take {1} Less Damage for {2} Seconds.
+Frost Shield
+{0} applies a buff to the caster for {1} Seconds. While {2} is active attackers have a {3} chance to be Chilled for {4} Seconds.
+Direct Attackers gain {0} for {1} Seconds
+Flame Shield
+{0} applies a buff to the caster causing them to deal {1} More Damage for {2} Seconds. While {3} is active attackers have a {4} chance to be Ignited for {5} Weapon Damage over {6} Seconds.
+Direct Attackers have a {0} chance to gain {1} for {2} Seconds
+Regeneration
+{0} applies a buff to the caster that restores {1} of Max HP per Second for {2} Seconds.
+Snow Storm
+{0} has a {1} chance to Chill the targets for {2} Seconds. {3} hits {4} targets.
+Hamstring
+{0} applies a debuff to the target that grants {1} Attack Speed for {2} Seconds.
+Watery Grave
+Luring Light
+{0} Taunts all targets for {1} Seconds. {2} hits {3} targets.
+Tail Sweep
+{0} has a {1} chance to Stun all targets for {2} Seconds. {3} hits {4} targets.
+Leaf Storm
+{0} hits {1} targets.
+Photosynthesis
+{0} applies a buff to the caster causing them to deal {1} More Damage and heal for {2} of Max HP. {3} lasts {4} Seconds.
+Howl
+{0} causes all allies to deal {1} More Damage and all targets to deal {2} Less Damage for {3} Seconds.
+Stampede
+{0} has a {1} chance to Stun targets for {2} Seconds. {3} hits {4} targets.
+Ram
+{0} applies a debuff to the target granting {1} Armour for {2} Seconds.
+Banshees Wail
+{0} applies a stack of Bleed to the target dealing {1} Weapon Damage over {2} Seconds and grants {3} Attack Speed for {4} Seconds. {5} hits {6} targets.
+Siphon Blood
+{0} applies a debuff to all targets causing them to deal {1} Less Damage for {2} Seconds. {3} hits {4} targets granting the caster {5} of Max HP for each target hit.
+Summon Swarm
+{0} applies a buff to the caster granting {1} Dodge Chance for {2} Seconds.
+Poisoned Blade
+{0} applies a stack of Poison to the target dealing {1} Weapon Damage per Second for {2} Seconds.
+Backstab
+{0} has a {1} chance to Critically hit and has {2} Critical Damage.
+Flamethrower
+{0} has a {1} chance to apply a stack of Ignite to each target dealing {2} Weapon Damage over {3} Seconds. {4} hits {5} targets.
+Laser Beam
+Toxic Wave
+{0} applies a stack of Poison to each target dealing {1} Weapon Damage per Second for {2} Seconds. {3} hits {4} targets.
+Repair
+{0} heals the caster for {1} of Max HP.
+Shadowform
+{0} applies a buff to the caster granting {1} Dodge Chance and causing them to deal {2} More Damage and take {3} Less Damage for {4} Seconds.
+Summon Demons
+{0} summons up to {1} Demonic allies to aid the caster.
+Cataclysm
+{0} applies a stack of Ignite to all targets dealing {1} Weapon Damage over {2} Seconds. {3} hits {4} targets.
+Contagion
+{0} summons up to {1} {2} to aid the caster.
+Plague Bringer
+{0} applies a debilitating debuff to each target. {1} hits {2} targets.
+Living Might
+{0} applies a buff to the caster causing them to deal {1} More Damage for {2} Seconds.
+Living Protection
+{0} applies a buff to the causing them to take {1} Less Damage for {2} Seconds.
+Living Quickness
+{0} applies a buff to the caster granting {1} More Attack Speed for {2} Seconds.
+Arcane Link
+{0} chains through each target dealing {1} More Damage to each additional target. {2} hits {3} targets.
+Whirlwind
+{0} applies a stack of Bleed to each target dealing {1} Weapon Damage over {2} Seconds. {3} hits {4} targets.
+Unload
+{0} has a {1} chance to apply a stack of Ignite to the target dealing {2} Weapon Damage over {3} Seconds. {4} hits {5} times.
+Iron Skin
+{0} applies a buff to the caster that causes all Direct attackers to take {1} Weapon Damage when hitting the caster. Lasts {2} Seconds.
+Direct Attackers take {0} Weapon Damage per hit
+Runic Strength
+{0} applies a buff to the caster that causes them to deal {1} More Damage, take {2} Less Damage and gain {3} More Attack Speed for {4} Seconds.
+Sonic Wave
+{0} applies a debuff to each target granting {1} Less Attack Speed for {2} Seconds. {3} hits {4} targets.
+Lightning Rod
+{0} applies Shock to the target and Taunts it for {1} Seconds.
+Wing Slash
+Panic
+{0} causes allies to {1} granting them {2} More Damage and {3} More Attack Speed for {4} Seconds.
+Frozen Winds
+{0} will Stun each Chilled target for {1} Seconds. {2} hits {3} targets.
+Eruption
+{0} applies a stack of Ignite to each target dealing {1} Weapon Damage over {2} Seconds. {3} causes each target to deal {4} Less Damage for {5} Seconds. {6} hits {7} targets.
+Thunder Storm
+{0} deals {1} Weapon Damage to Shocked targets. {2} hits {3} targets.
+Dragons Blessing
+{0} applies a buff to the caster causing them to take {1} Less Damage and regenerate {2} of Max HP per Second for {3} Seconds. {4} Summons up to {5} Lesser Dragons to assist the caster.
+Dread
+{0} applies a debuff to the target causing them to lose {1} of Max HP per Second for {2} Seconds.
+Shadow Stare
+{0} applies a stack of Bleed to each target dealing {1} Weapon Damage over {2} Seconds. {3} hits {4} targets.
+Reality Tear
+{0} summons up to {1} Eldritch Horrors to assist the caster. {2} hits {3} targets.
+Necrotic Link
+{0} prevents the casters HP from being reduced to below {1} by Attacks for {2} Seconds.
+HP cannot be reduced below {0} by Attacks
+Take Flight
+{0} causes the caster to become Untargetable for {1} Seconds.
+ Skill Name, {1} 
+Royal Blessing
+{0} applies a buff to the caster causing them to take {1} Less Damage, deal {2} More Damage, gain {3} More Attack Speed and regenerate {4} of Max HP per Second for {5} Seconds. {6} summon up to {7} Greater Dragons to assist the caster.
+Pindown
+{0} applies a stack of Bleed to the target dealing {1} Weapon Damage over {2} Seconds.
+Smokescreen
+{0} applies a buff to the caster and all allies granting {1} Dodge Chance for {2} Seconds.
+Earthquake
+{0} hits {1} targets.
+Ground Slam
+{0} Stuns all targets for {1} Seconds. {2} hits {3} targets.
+Blizzard
+{0} hits {1} targets.
+Firestorm
+{0} hits {1} targets.
+Twisting Shadows
+{0} hits {1} targets and summons up to {2} Forgotten to aid the caster.
+Abyss Walk
+{0} applies a buff to the caster causing them to take {1} Less Damage and heal for {2} of Max HP for {3} Seconds.
+Arcane Storm
+{0} hits {1} targets.
+Thunder Shock
+{0} has a {1} chance to Shock the target for {2} Seconds.
+Flame Burst
+{0} applies a stack of Ignite to all targets dealing {1} Weapon Damage over {2} Seconds. {3} hits {4} targets.
+Deep Freeze
+{0} Stuns the target for {1} Seconds.
+Armour Crush
+{0} applies a debuff to the target granting {1} Armour for {2} Seconds.
+Arcane Blast
+Corruption
+Deals {0} More Damage to targets affected by {1}.
+Miasma
+Deals {0} More Damage for each {1} on the target.
+Fracture
+Reduces the targets Armour by {0} for {1} Seconds. Max {2} stacks.
+Disintegrate
+Applies a stack of {0} dealing {1} Weapon Damage every Second for {2} Seconds.
+Ruin
+Targets affected by {0} have {1} Dodge Chance for {2} Seconds. Hits {3} Targets;
+Eldritch Regen
+The Caster regenerates {0} of Max HP per Second.
+Lash
+Disorient
+Targets affected by {0} have {1} Less Attack Speed for {2} Seconds. Hits {3} Targets.
+Call from Beyond
+Summons up to {0} {1} Monsters to aid the Caster
+Mind Warp
+Targets affected by {0} are {1} for {2} Seconds and have {3} Less Attack Speed during {4}.
+Crush
+{0} has a {1} chance to {2} the target for {3} Seconds. {0} deals {4} More Damage to {5} targets.
+Call of the Deep
+Summons up to {0} Monsters to aid the Caster and applies {1} to all targets for {2} Seconds. Hits {3} targets.
+Hardened Shell
+Causes the Caster to take {0} Less Damage
+Whirlpool
+Applies {0} to each target for {1} Seconds. Hits {2} targets.
+Sniper's Shot
+{0} applies {1} to the target for {2} Seconds.
+Lightning Lash
+Steel Lunge
+{0} causes the target to have {1} Less Attack Speed for {2} Seconds.
+Explosive Blast
+{0} applies a stack of {1} to each target dealing {2} Weapon Damage for {3} Seconds. Hits {4} targets.
+Rally
+{0} heals the caster for {1} of Max HP and Summons {2} allies to assist the caster.
+Pulverize
+{0} reduces the targets Armour by {1} and Block Rating by {2} for {3} Seconds.
+Last Stand
+{0} causes the caster to take {1} Less Damage, gain {2} Stun Avoidance, and restore {3} of Max HP per Second.
+Final Charge
+{0} Summons {1} allies to assist the caster. {0} removes the {2} effect.
+Bribe
+{0} causes the target to deal {1} Less Damage for {2} Seconds.
+Coin Shower
+{0} applies {1} to each target causing them to deal {2} Less Damage for {3} Seconds. Hits {4} targets.
+Treasure Bash
+{0} applies {1} to the target for {2} Seconds and causes the caster to gain {3} More Attack Speed for {4} Seconds.
+Golden Veins
+{0} causes the caster to take {1} Less Damage and restore {2} of Max HP per Second for {3} Seconds.
+Spike Trap
+{0} applies a stack of {1} to the target dealing {2} Weapon Damage over {3} Seconds and causes the target have {4} Less Attack Speed for {5} Seconds.
+Toxic Rain
+{0} applies a stack of {1} to the target dealing {2} Weapon Damage every Second for {3} Seconds and causes the target to deal {4} Less Damage for {5} Seconds.
+Living Flame
+{0} causes the cater to deal {1} More Damage and restores {2} of Max HP per Second for {3} Seconds.
+Waterbolt
+{0} applies {1} to the target for {2} Seconds.
+Cold Snap
+{0} applies {1} to the target for {2} Seconds and causes them to take {3} More Damage for {4} Seconds.
+Void Sacrifice
+{0} causes the caster to lose {1} of Max HP per Second. The caster and all allies deal {2} More Damage.
+Entomb
+{0} reduces the targets Armour by {1} and causes the target to have {2} Less Attack Speed for {3} Seconds.
+Bone Armour
+{0} increases the casters Armour by {1}.
+Bone Barrage
+{0} has a {1} chance on hit to {2} the target for {3} Seconds. {0} hits {4} times.
+Hail
+{0} has a {1} chance to {2} targets affected by {3} for {4} Seconds. {0} hits {5} targets.
+Icebound Celerity
+{0} grants the caster {1} More Attack Speed and {2} Cooldown Reduction. While {0} is active apply {3} to each attacker for {4} Seconds.
+Arcane Punch
+{0} applies a stack of {1} to the target dealing {2} Weapon Damage over {3} Seconds.
+Arcane Fissure
+{0} applies a stack of {1} to each target dealing {2} Weapon Damage over {3} Seconds. Hits {4} targets.
+Arcane Diffusion
+{0} grants the caster {1} More Attack Speed and {2} More Damage for {3} Seconds. Targets affected {0} have {4} Less Attack Speed for {5} Seconds. Hits {6} targets.
+Provoking Shout
+{0} applies {1} to all targets for {2} Seconds.
+Protect
+{0} causes the caster to take {1} Less Damage for {2} Seconds.
+Cross Blades
+{0} grants the caster {1} More Attack Speed. Stacks up to {2} times. Lasts {3} Seconds.
+Blade Dance
+{0} causes the caster to deal {1} More Damage for {2} Seconds. Hits {3} times.
+Evasion
+{0} grants the caster {1} Dodge Chance and restores {2} of Max HP per Second for {3} Seconds.
+Thunder Call
+{0} applies {1} to the target for {2} Seconds
+Discharge
+{0} applies {1} to each target for {2} Seconds and grants the caster {3} More Attack Speed for {4} Seconds. {0} hits {5} targets.
+Flame Slash
+{0} applies a stack of {1} to the target dealing {2} Weapon Damage over {3} Seconds and causes the target to have {4} Less Attack Speed for {5} Seconds.
+Falling Flames
+{0} applies a stack of {1} to each target dealing {2} Weapon Damage over {3} Seconds and causes the target to deal {4} Less Damage for {5} Seconds. {0} hits {6} targets.
+Quick Slash
+A fast but weak melee attack
+Recurrence
+{0} has a {1} chance to strike {2} additional time
+Flurry
+Striking a target with {0} grants {1} More Attack Speed up to {2} stacks. Lasts {3} Seconds
+Execute
+{0} has a {1} chance to instantly kill Non-Boss targets under {2} HP
+Bloodlust
+Killing a target with {0} grants {1} More Damage for {2} Seconds
+Static Strike
+{0} now deals {1} Damage
+Static Shock
+{0} has a {1} chance to {2} the target for {3} Seconds
+Flame Strike
+{0} now deals {1} Damage
+Blazing Wound
+{0} applies a stack of {1} to the target dealing {2} Weapon Damage over {3} Seconds
+Cleave
+A frontal slash capable of hitting multiple targets at once
+Hits {0} targets.
+Fury
+If {0} hits more than {1} target gain {2} More Damage for {3} Seconds
+Lethal Blows
+{0} gains {1} Double Damage for each potential target
+Greater Cleave
+{0} hits {1} additional target
+Multistrike
+{0} deals {1} More Damage for each potential target
+Frost Sweep
+{0} now deals {1} Damage
+Chilling Blow
+{0} has a {1} chance to {2} the target for {3} Seconds and deals {4} More Damage
+Frenzy
+{0} deals {1} Weapon Damage for each missing target
+Doublestrike
+Slaying a target with {0} has a {1} chance to cause {2} to strike again
+Rend
+A savage strike that leaves your target bleeding out
+Damage is dealt as a stack of {0} dealing Weapon Damage over {1} Seconds.
+First Blood
+{0} deals {1} More Damage to targets that are not currently affected by {2}
+Lethality
+{0} deals {1} More Damage to targets that are affected by {2}
+Bleed Out
+{0} gains an additional {1} Seconds duration and deals {2} Weapon Damage.
+Haemorrhage
+{0} has a {1} chance to apply {2} stacks of {3}
+Haemophilia
+{0} deals {1} More Damage for each stack of {2} on the target
+Puncture
+{0} now deals {1} Damage
+Better Aim
+{0} deals {1} More Damage
+Deepened Wounds
+{0} deals {1} More Damage when applied to targets below {2} HP
+Sunder
+A minor strike that leaves the target vulnerable
+Applies a stack of {0} to the target granting {1} Armour per stack. Max {2} stacks. Lasts {3} Seconds.
+Applies a stack of {0} to the target granting {1} Armour per stack. Max {2} stacks. Lasts {3} Seconds. Hits {4} targets.
+Leverage
+{0} deals {1} More Damage for each stack of {2} on the targets
+Liability
+If there are no stacks of {0} on the targets deal {1} More Damage and apply {2} stacks
+Armour Penetration
+Each stack of {0} grants an additional {1} Armour
+Exposed Defences
+{0} gains {1} maximum stacks
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Layered Assault
+{0} has a {1} chance to apply {2} stacks of {3} on hit
+Infuriating Assault
+{0} has a {1} chance to {2} the target for {3} Seconds
+Sweeping Blow
+{0} deals {1} Weapon Damage and has a {2} chance to hit all targets
+Taunting Blow
+An imposing strike that draws the attention of the target forcing them to attack the caster
+Applies {0} to the target for {1} Seconds.
+Tunnel Vision
+{0} deals {1} More Damage to targets affected by {2}
+Prepared Defences
+Striking a target with {0} grants {1} Block Rating for {2} Seconds
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Threat Nullification
+{0} causes targets affected by {1} to deal {2} Less Damage
+Distract
+{0} causes targets affected by {1} to take {2} More Damage
+Protective Strike
+{0} grants {1} of Max HP as Barrier on hit
+Shared Protection
+Barrier gained is applied to all allies
+Regenerative Strike
+{0} grants {1} of Max HP on hit
+Slam
+A slow but brutal strike
+Overwhelm
+{0} deals {1} More Damage to targets above {2} HP
+Shatter Defence
+{0} causes the target to gain {1} Armour for {2} Seconds
+Critical Chance
+{0} gains {1} Critical Chance
+Trauma
+{0} Critical Strikes cause the target to {1} for {2} Weapon Damage over {3} Seconds
+Ice Crash
+{0} now deals {1} Damage
+Sub Zero
+{0} has a {1} chance to {2} the target for {3} Seconds and deals {4} More Damage
+Internal Bleeding
+{0} gains {1} Double Damage against targets affected by {2}
+Blood Rage
+{0} Critical Strikes grant {1} More Attack Speed for {2} Seconds
+Fire Arrow
+Shoot a flaming arrow at your target
+Exploit
+{0} deals {1} More Damage to targets below {2} HP
+Lucky Burn
+{0} gains {1} Double Damage against targets affected by {2}
+Critical Adaptation
+{0} gains {1} Critical Chance against targets above {2} HP and {3} Critical Damage against targets below {4} HP
+Burning Arrow
+{0} has a {1} chance to {2} the target for {3} Weapon Damage over {4} Seconds
+Flammability
+{0} has a {1} chance on {2} to instead apply {3} stacks
+Ricochet
+{0} has a {1} chance to hit {2} additional target
+Storm Shot
+{0} now deals {1} Damage
+Lingering Storm
+{0} has a {1} chance to {2} the target for {3} Seconds
+Armour Break
+Strike at the targets defences reducing them drastically
+Reduces the targets Armour by {0} for {1} Seconds.
+Reduces the targets Armour by {0} for {1} Seconds. Hits {2} targets.
+Exposed Defences
+Targets affected by {0} take {1} More Damage
+Precaution
+{0} grants the caster {1} Armour for {2} Seconds
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Debilitate
+Targets affected by {0} deal {1} Less Damage
+Thunder Strike
+{0} now deals {1} Damage
+Thunder Storm
+{0} has a {1} chance to hit all targets
+Critical Assault
+Targets affected by {0} gain {1} Critical Avoidance
+Critical Overwhelm
+Targets affected by {0} gain {1} Critical Defence
+Earthquake
+Shatter the ground dealing immense damage to all targets
+Hits {0} targets.
+Epicentre
+{0} deals {1} More Damage to the first target struck
+Unsteady Ground
+{0} causes your next Default Attack to deal {1} More Damage
+Volcano
+{0} now deals {1} Damage
+Hotspot
+{0} applies a stack of {1} to all targets dealing {2} Weapon Damage over {3} Seconds
+Aftershock
+{0} has a {1} chance to strike {2} additional time
+Doublestrike
+{0} gains {1} Double Damage for each potential target
+Critical Chance
+{0} gains {1} Critical Chance
+Critical Prowess
+When {0} deals a Critical Strike gain {1} Critical Damage for {2} Seconds
+Dragons Roar
+Let out a bellowing roar inspiring the caster to deal more damage
+Grants the caster {0} More Damage for {1} Seconds. Hits {2} targets.
+Single Out
+{0} now only hits {1} target and deals {2} Weapon Damage
+Recharge
+Whenever a target is slain the Cooldown of {0} is reduced by {1} Seconds
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Faster Attacks
+While affected by {0} gain {1} Attack Speed
+Critical Chance
+While affected by {0} gain {1} Critical Chance
+Critical Damage
+While affected by {0} gain {1} Critical Damage
+Doublestrike
+While affected by {0} gain {1} Double Damage
+Double Team
+{0} has a {1} chance to be applied to all allies
+Ground Slam
+Strike the ground in front of you temporarily stunning all target
+Applies a {0} to {1} targets for {2} Seconds.
+Rupture
+Targets {0} by {1} gain {2} Armour
+Stun Duration
+{0} gains an additional {1} Seconds {2} duration
+Tactical Advantage
+Each target {0} by {1} grants {2} More Damage for {3} Seconds
+Caught Off Guard
+Targets {0} by {1} deal {2} Less Damage during {3}
+Replenishing Blow
+{0} heals the caster for {1} of Max HP for each target {2}
+Fatal Advantage
+Slaying a {0} target reduces the Cooldown of {1} by {2} Seconds
+Whiplash
+{0} has a {1} chance to only incur a {2} Second Cooldown
+Concussion
+{0} has a {1} chance to avoid triggering the targets {2}
+Imposing Cry
+Let out a ferocious shout drawing all attention to you for a short time
+Applies a {0} to {1} targets for {2} Seconds.
+Unnerve
+Targets affected by {0} gain {1} Attack Speed
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Caught Off Guard
+Targets affected by {0} deal {1} Less Direct Damage
+Lowered Morale
+Targets affected by {0} deal {1} Less Area Damage
+Valor
+When hit by a target affected by {0} heal for {1} of Max HP
+Distract
+Targets affected by {0} take {1} More Damage
+Fatal Advantage
+Killing a target affected by {0} reduces the Cooldown of {1} by {2} Seconds
+Critical Chance
+Targets affected by {0} gain {1} Critical Avoidance
+Defensive Stance
+Perform a defensive manoeuvrer to reduce damage taken for a short time
+Take {0} Less Damage and deal {1} Less Damage for {2} Seconds.
+Take {0} Less Damage for {1} Seconds.
+Compel
+{0} applies {1} to all targets and causes the caster to take an additional {2} Less Damage
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Impenetrable
+While affected by {0} take {1} Less Area Damage
+Frigid Block
+While affected by {0} gain a {1} chance to {2} Direct attackers for {3} Seconds
+Block Chance
+While affected by {0} gain {1} Block Chance
+Dodge Chance
+While affected by {0} gain {1} Dodge Chance
+Unstoppable Force
+Reduces the damage penality of {0} by {1} of its total
+Critical Avoidance
+While affected by {0} gain {1} Critical Avoidance
+Quick Draw
+A medium strength ranged attack
+Careful Draw
+{0} deals {1} More Damage to targets above {2} HP
+Wide Shot
+{0} has a {1} chance to hit {2} additional target
+Frost Shot
+{0} now deals {1} Damage
+Piercing Chill
+{0} has a {1} chance to {2} the target for {3} Seconds and deals {4} More Damage
+Bleed Out
+{0} has a {1} chance to apply a stack of {2} to the target dealing {3} Weapon Damage over {4} Seconds
+Execute
+{0} has a {1} chance to instantly kill Non-Boss targets under {2} HP
+Critical Chance
+{0} gains {1} Critical Chance
+Critical Advantage
+When {0} deals a Critical Strike gain {1} More Attack Speed for {2} Seconds
+Disable
+A fast but weak strike that leaves the target in a weakened state
+Applies a stack of {0} causing the target to deal {1} Direct Damage per stack. Max {2} Stacks. Lasts {3} Seconds.
+Leverage
+{0} deals {1} More Damage for each stack of {2} on the target
+First Strike
+If there are no stacks of {0} on the targets deal {1} More Damage and apply {2} stacks
+Further Debilitation
+Targets affected by {0} deal an additional {1} Direct Damage per Stack
+Critical Weakness
+{0} gains {1} maximum stacks
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Hamstring
+{0} has a {1} chance to apply {2} stacks of {3} on hit
+Reduced Critical Chance
+Targets affected by {0} gain {1} Critical Chance per stack
+Replenishing Strikes
+Hitting a target affected by {0} has a {1} chance to restore {2} of Max HP per stack
+Explosive Shot
+A high powered explosive blast that has a chance to ignite the target
+{0} chance to {1} the target for {2} Weapon Damage over {3} Seconds.
+{0} chance to {1} the target for {2} Weapon Damage over {3} Seconds. Hits {4} targets.
+Hits {0} targets.
+Shock and Awe
+{0} deals {1} More Damage to targets above {2} HP
+Chain Explosion
+{0} has a {1} chance to hit {2} additional target
+Ignite Chance
+{0} has a {1} chance to {2} the target
+Ignite Damage
+{0} deals {1} Weapon Damage but {2} deals {3} Weapon Damage
+Thunder Blast
+{0} now deals {1} Damage and cannot {2}
+Echoing Thunder
+{0} has a {1} chance to {2} the target for {3} Seconds and deals {4} More Damage
+Explosive Charge
+{0} applies an {1} to the target that will explode upon death dealing {2} Weapon Damage to all remaining targets. Max {3} stacks
+Explodes On Death
+Premature Detonation
+{0} now deals {1} More Damage for each {2} on the target
+Poison Sting
+A fast but deadly shot leaving the target poisoned
+Damage is dealt as a stack of {0} dealing Weapon Damage every Second for {1} Seconds.
+First Strike
+{0} deals {1} More Damage to targets that are not currently affected by {2}
+Lethality
+{0} deals {1} More Damage to targets that are affected by {2}
+Hidden Blade
+{0} now deals {1} Damage
+Melee Damage
+{0} now deals {1} More Damage
+Weakened Strikes
+Targets affected by {0} deal {1} Less Damage
+Deep Wounds
+{0} deals {1} More Damage for each stack of {2} on the target
+Increased Duration
+{0} gains an additional {1} Seconds duration but deals {2} Weapon Damage
+Fatal Wounds
+{0} deals {1} More Damage to targets under {2} HP
+Vigilance
+An elusive strike that provides an increased chance to Dodge
+{0} grants {1} Dodge Chance for {2} Seconds.
+Vigour
+{0} deals {1} More Damage for each percent of Dodge Chance you have
+Protective Ward
+While affected by {0} take {1} Less Damage
+Evasive
+{0} grants {1} Dodge Chance
+Threaten
+{0} has a {1} chance to {2} the target for {3} Seconds
+Exposure
+When {0} applies {1} to a target they take {2} More Damage
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Regeneration
+While affected by {0} gain {1} of Max HP per Second
+Critical Defence
+While affected by {0} gain {1} Critical Avoidance
+Barrage
+Release a barrage of shots onto the battlefield
+Damage is split between all targets. Hits {0} targets.
+Broadside
+{0} deals {1} More Damage for each potential target
+Multishot
+{0} has a {1} chance to hit {2} additional time
+Flame Barrage
+{0} now deals {1} Damage
+Overflowing Flames
+{0} has a {1} chance to {2} each target for {3} Weapon Damage over {4} Seconds
+Lightning Barrage
+{0} now deals {1} Damage
+Shock Chance
+{0} has a {1} chance to {2} each target for {3} Seconds
+Critical Chance
+{0} gains {1} Critical Chance for each potential target
+Focus Fire
+If {0} has only {1} potential target it deals {2} More Damage
+Snipe
+A slow but lethal shot with an increased chance to critically hit
+{0} has {1} Critical Chance
+Healthy Advantage
+{0} deals {1} More Damage when the caster has an equal or greater HP percentage than the target
+Execute
+{0} has a {1} chance to instantly kill Non-Boss targets under {2} HP
+Frozen Salvo
+{0} now deals {1} Damage
+Shatter
+{0} has a {1} chance to {2} the target for {3} Seconds and deals {4} More Damage
+Steady Aim
+{0} gains {1} Attack Time and {2} Weapon Damage
+Slow and Steady
+{0} deals {1} More Damage for each {2} Attack Time
+Bullseye
+{0} gains {1} Critical Strike against targets with {2} HP
+Refined Accuracy
+When {0} deals a Critical Strike gain {1} Critical Damage for {2} Seconds
+Blade Flurry
+Unleash a series of rapid strikes
+Hits {0} times
+Potent Assault
+{0} grants the caster {1} Double Damage for each time it hit a target this cast. Lasts {2} Seconds
+Guillotine
+{0} deals {1} More Damage to targets under {2} HP
+Reinvigorate
+When {0} deals a Critical Strike its Cooldown is reduced by {1} Seconds
+Chilling Fury
+{0} now deals {1} Damage and applies {2} to each target hit for {3} Seconds
+Deep Chill
+{0} deals {1} More Damage against targets affected by {2}
+Flurry
+{0} has a {1} chance to strike {2} additional time
+Critical Chance
+The first strike of {0} has {1} Critical Chance
+Critical Damage
+{0} gains {1} Critical Damage
+Pin Down
+Focus fire on a single target to deal damage over time
+Applies a stack of {0} to the target dealing damage over {1} Seconds
+Unsuspecting Prey
+{0} deals {1} More Damage to targets above {2} HP
+Opportunistic
+{0} grants the caster {1} More Attack Speed for {2} Seconds
+Faster Bleeding
+{0} duration is reduced by {1} Seconds
+Deeper Wounds
+{0} deals {1} More Damage for stack of {2} on the target
+Pinned Down
+Targets affected by {0} have {1} Less Attack Speed for {2} Seconds
+Corrupted Blood
+If the target is slain while {0} is active there is a {1} chance that {2} will be applied to the next target
+Life Leech
+{0} heals the caster for {1} of Max HP
+Critical Chance
+{0} can now Critically Strike and gains {1} Critical Chance
+Rain of Arrows
+A shower of projectiles damaging all targets
+Hits {0} targets
+Volley
+{0} deals {1} More Damage for each potential target
+Exposed Defences
+Targets affected by {0} gain {1} Armour for {2} Seconds
+Rain of Fire
+{0} now deals {1} Damage
+Burning Arrows
+{0} now applies a stack of {1} to each target deals {2} Weapon Damage over {3} Seconds
+Repetition
+{0} has a {1} chance for each potential target to hit {2} additional time
+Quick Reload
+Each target slain by {0} reduces its Cooldown by {1} Seconds
+Critical Chance
+{0} gains {1} Critical Chance
+Critical Exploit
+When {0} deals a Critical Strike the target gains {1} Critical Defence for {2} Seconds
+Smokescreen
+Release a cloud of smoke obscuring your targets view
+All allies gain {0} Dodge Chance for {1} Seconds
+From the Shadows
+Targets affected by {0} gain {1} Critical Chance and {2} Critical Damage
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Dodge Chance
+{0} grants {1} Dodge Chance
+Lasting Protection
+When {0} expires gain {1} Dodge Chance for {2} Seconds
+Glancing Blows
+Targets affected by {0} take {1} Less Direct Damage
+Combat Knowledge
+Dodging an attack during {0} reduces the Cooldown by {1} Seconds
+Recover
+{0} restores {1} of Max HP
+Critical Avoid
+Targets affected by {0} gain {1} Critical Avoidance
+Crippling Poison
+A brutal poison that cripples the targets offensive capabilities
+Add {0} stacks of {1} to the target. Each stack causes the target to deal {2} Less Damage. When the target attacks {3} stack is removed. Max {0} stacks.
+Malignant Presence
+Each stack of {0} causes the target to take {1} More Damage
+Greater Crippling Poison
+{0} gains {1} maximum stacks
+Lethal Combination
+When {0} is removed {1} and {2} are applied to the target for {3} Seconds
+Alchemical Demise
+{0} and {1} duration is increased by {2} Seconds
+Press the Advantage
+Slaying a target affected by {0} grants {1} More Damage to all allies for each remaining stack. Last {2} Seconds
+Equilibrium
+Each time a stack of {0} is removed its Cooldown is reduced by {1} Seconds
+Toxic
+Each stack of {0} causes the target to deal an additional {1} Less Damage
+Endless Poison
+Each time the target attacks there is a {0} chance a {1} stack is not removed
+Vanish
+Vanish from sight for a brief moment becoming untargetable
+Become Untargetable for {0} Seconds.
+Retreat
+{0} gains an additional {1} Seconds duration
+Darkness
+{0} causes the casters allies to gain {1} Dodge Chance for its duration
+Lasting Protection
+After {0} expires gain {1} Dodge Chance for {2} Seconds
+Hidden Advantage
+While affected by {0} deal {1} More Damage
+Rapid Recovery
+The Cooldown of {0} is reduced by {1} Seconds each time the caster is hit by a Direct Attack
+Pattern Recognition
+Taking Area Damage during {0} reduces the Cooldown {1} Seconds
+Regeneration
+While affected by {0} gain {1} of Max HP per Second
+Careful Steps
+While affected by {0} take {1} Less Area Damage
+Fireball
+Hurl a ball of fire at the target
+Hits {0} targets.
+Applies a stack of {0} to the target dealing {1} Weapon Damage over {2} Seconds.
+Spell Echo
+{0} has a {1} chance to hit {2} additional time
+Fresh Burn
+{0} deals {1} More Damage to targets above {2} HP
+Forking Fire
+{0} now hits {1} additional target and splits its damage between each target
+Cascade
+{0} deals {1} Weapon Damage for each potential target
+Flammability
+{0} applies a stack of {1} dealing {2} Weapon Damage over {3} Seconds
+Deepening Flames
+{0} deals {1} Weapon Damage
+Engulfing Flames
+{0} deals {1} More Damage to targets affected by {2}
+Electrical Fire
+{0} deals {1} More Damage to targets affected by {2}
+Arcane Explosion
+A large arcane nova that hits all targets
+Hits {0} targets.
+Arcane Overload
+{0} deals {1} More Damage for each potential target 
+Targeted Blast
+If {0} has only {1} potential target it deals {2} More Damage
+Arcane Debilitation
+{0} deals {1} More Damage to targets under {2} HP
+Arcane Eruption
+{0} gains {1} Double Damage for each potential target
+Arcane Detonation
+Slaying a target with {0} has a {1} chance to cause {2} to strike again
+Arcane Swiftness
+Slaying a target with {0} grants {1} More Attack Speed for {2} Seconds
+Arcane Blast
+{0} now only hits {1} target but deals {2} Weapon Damage
+Arcane Empowerment
+{0} deals {1} More Damage
+Frostbolt
+Throw a large ball of ice at the target slowing them down
+Applies a stack of {0} to the target granting {1} Attack Speed per stack. Max {2} stacks. Last {3} Seconds.
+Shatter
+{0} deals {1} More Damage for each stack of {2} on the target
+Cold Snap
+If there are no stacks of {0} on the target deal {1} More Damage and apply {2} stacks
+Gripping Frost
+Targets affected by {0} gain an additional {1} Attack Speed per stack
+Stacking Frost
+{0} gains {1} maximum stacks
+Numb
+{0} grants the targets {1} Critical Avoidance for {2} Seconds
+Frozen Solid
+If {0} hits a target affected by {1} it has a {2} chance to {3} the target for {4} Seconds
+Chilling Blast
+{0} has a {1} chance to {2} the target for {3} Seconds and deals {4} More Damage
+Frigid
+{0} has a {1} chance to apply {2} stacks at once
+Frost Strike
+A protective strike that wards the caster
+Gain {0} of Max HP as Barrier on hit.
+Restore {0} of Max HP on hit.
+Well Rested
+{0} deals {1} More Damage if the caster has a higher HP percentage than the target
+Shielded Strike
+{0} deals {1} More Damage if the caster has Barrier
+Frozen in Anger
+{0} has a {1} chance to {2} the target for {3} Seconds
+Frozen Memory
+When hitting a target affected by {0} there is a {1} chance for {2} to strike {3} additional time
+Frigid Healing
+{0} now restores HP instead of Barrier
+Cryotherapy
+{0} heals for {1} More HP when the heal target is below {2} HP
+Enhanced Protection
+{0} grants an additional {1} of Max HP as Barrier
+Party Protection
+{0} has a {1} chance to apply its heal to all allies
+Chain Lightning
+A lightning blast that forks through multiple targets
+Chains through {0} targets dealing {1} Less Damage for each chain.
+Hits {0} target.
+Electrocute
+{0} deals {1} More Damage to targets under {2} HP
+Lone Bolt
+{0} deals {1} More Damage if there is only {2} potential target
+Chain Strength
+{0} gains {1} Damage penality for each chain
+Critical Chain
+{0} gains {1} Critical Chance for each potential target
+Focussed Blast
+{0} now hits only {1} target
+Latent Lightning
+{0} deals {1} More Damage
+Lightning Infusion
+When {0} deals a Critical Strike gain {1} More Attack Speed for {2} Seconds
+Empowered Infusion
+When {0} deals a Critical Strike deal {1} More Damage for {2} Seconds
+Thunderbolt
+Hurls a bolt of lightning at the target with a chance to shock
+{0} chance to {1} the target for {2} Seconds.
+Discharge
+{0} has a {1} chance to hit {2} additional target
+Lightning Coil
+Each time {0} hits gain {1} More Attack Speed. Stacks up to {2} times. Lasts {3} Seconds
+Lightning Pulse
+While affected by Lightning Coil {0} deals {1} More Damage
+Shock Chance
+{0} gains {1} chance to {2} the target
+Shock Damage
+{0} deals {1} More Damage against targets affected by {2}
+Invigorate
+{0} has a {1} chance on hit to reduce a random Cooldown by {2} Seconds
+Critical Chance
+{0} gains {1} Critical Chance
+Lightning Rupture
+When {0} deals a Critical Strike the target gains {1} Critical Defence for {2} Seconds
+Meteor
+Direct a large firey boulder towards the target dealing massive damage
+Extinction
+{0} deals {1} More Damage to targets below {2} HP
+Silent Strike
+{0} deals {1} More Damage to targets above {2} HP
+Meteor Shower
+{0} has a {1} chance to strike {2} additional time
+Shockwave
+{0} deals {1} Weapon Damage to non targets
+Mana Bomb
+{0} now deals {1} Damage
+Arcane Detonation
+{0} deals {1} More Damage
+Maelstrom
+{0} now deals {1}, {2}, {3} and {4} Damage and is only affected by the targets lowest Elemental Resistance
+Elemental Strength
+{0} gains {1} more value from {2}, {3}, {4} and {5} Damage
+Firestorm
+Cover the battlefield with a rain of fire
+Hits {0} targets.
+Caught Out
+{0} deals {1} More Damage to targets above {2} HP
+Focussed Fire
+{0} deals {1} More Damage if there is only {2} potential target
+Self Sustain
+Slaying a target with {0} reduces its Cooldown by {1} Seconds
+Deadly Storm
+{0} deals {1} More Damage for each potential target
+Arcane Storm
+{0} now deals {1} Damage
+Arcane Strength
+Each target hit by {0} grants {1} Double Damage for {2} Seconds
+Ongoing Storm
+{0} has a {1} chance to strike {2} additional time
+Critical Chance
+{0} gains {1} Critical Chance for each potential target
+Arcane Torrent
+Unleash a volley of arcane bolts
+Hits {0} times.
+Frontload
+The first hit of {0} deals {1} More Damage
+Self Sustain
+Each time {0} hits a target its Cooldown is reduced by {1} Seconds
+Cascade
+Each time {0} hits a target it has a {1} chance to strike {2} additional time
+Extended Torrent
+{0} has a {1} chance to hit {2} additional time
+Frost Torrent
+{0} now deals {1} Damage and applies {2} to the target for {3} Seconds
+Freezing Torrent
+When {0} hits a target affected by {1} it has a {2} chance to {3} the target for {4} Seconds
+Deepening Strikes
+{0} deals {1} More Damage and an additional {1} More Damage for each time it has hit a target this cast.
+Potent Assault
+{0} grants the caster {1} Double Damage for each time it hit. Lasts {2} Seconds
+Blizzard
+Fill the battlefield with frigid winds
+Hits {0} targets.
+Exposure
+{0} deals {1} More Damage for each potential target
+Chilled to the Bone
+{0} deals {1} More Damage to targets affected by {2}
+Frigid Winds
+{0} has a {1} chance to apply {2} to all targets for {3} Seconds
+Favourable Winds
+When {0} applies {1} to a target its cooldown is reduced by {2} Seconds
+Lightning Storm
+{0} now deals {1} Damage and {2} effects are converted to {3}
+Lightning Strikes
+{0} deals {1} More Damage to targets affected by {2}
+Deep Freeze
+When {0} hits a target affected by {1} it has a {2} chance to {3} the target for {4} Seconds
+Critical Freeze
+{0} gains {1} Critical Chance against targets affected by {2}
+Stasis
+Place a target in stasis reducing their attack speed
+Adds {0} stack of {1} to the target. Each stack grants {2} Attack Speed. When the target attacks {3} stack is removed. Max {0} stacks.
+Slow Reflexes
+Each stack of {0} causes the target to take {1} More Damage
+Stack Size
+{0} gains {1} maximum stacks
+Lethal Combination
+When {0} is removed {1} and {2} are applied to the target for {3} Seconds
+Alchemical Demise
+{0} and {1} duration is increased by {2} Seconds
+Strengthened Stasis
+Each stack of {0} grants an additional {1} Attack Speed
+Equilibrium
+Each time a stack of {0} is removed its Cooldown is reduced by {1} Seconds
+Press the Advantage
+Slaying a target while {0} is active grants {1} More Damage to all allies for each remaining stack. Lasts {2} Seconds
+Lingering Stasis
+Each time the target attacks there is a {0} chance a {1} stack is not removed
+Frost Nova
+Cover the battlefield in a layer of frost stunning all targets
+Applies a {0} to {1} targets for {2} Seconds.
+Hypothermia
+Targets {0} by {1} deal {2} Less Damage during {3}
+Freeze Duration
+{0} gains an additional {1} Seconds {2} duration
+Chilling Blast
+{0} applies {1} to all targets for {2} Seconds
+Lingering Frost
+{0} duration is increased by {1} Seconds
+Critical Vulnerability
+Targets {0} by {1} gain {2} Critical Avoidance
+Exposure
+Targets {0} by {1} take {2} More Damage
+Cold Snap
+{0} has a {1} chance to only incur a {2} Second Cooldown
+Deep Freeze
+When {0} applies a {1} to a target affected by {2} its duration is increased by an additional {3} Seconds
+Arcane Cloak
+Use your magic to restore your barrier
+Regenerate all Barrier over {0} Seconds
+Arcane Safeguard
+While affected by {0} take {1} Less Damage
+Faster Recovery
+{0} has {1} Seconds duration
+Mana Shield
+{0} grants an additional {1} Max HP as Barrier
+Lasting Protection
+When {0} expires gain {1} Dodge Chance for {2} Seconds
+Active Protection
+While affected by {0} take {1} Less Area Damage
+Regeneration
+{0} restores {1} Max HP over its duration
+Critical Chance
+While affected by {0} gain {1} Critical Chance
+Critical Defence
+While affected by {0} gain {1} Critical Avoidance
+{0} Lvl {1}
+Requires Level {0}
+Requires Character Level {0}
+Requires Reputation Level: {0}
+Max Rank {0}
+Current Rank:
+Next Rank:
+First Rank:
+Next Rank Costs:
+*Amount scales with level
+Dependant On: {0}
+Exclusive With: {0}
+This passive cannot be unallocated as another passive is dependant on it.
+{0} cannot be allocated while exclusive passive {1} is allocated.
+{0} cannot be allocated without passive {1}.
+Left Click to Allocate a Rank
+Ctrl + Left Click to Allocate All Ranks
+Right Click to Remove a Rank
+Ctrl + Right Click to Remove all Ranks
+Mastery Bonus
+{0} More Damage
+{0} Cooldown Reduction
+Reaching Mastery Level {0} Will Grant:
+{0} Weapon Damage
+{0} Attack Time
+{0} Second Cooldown
+Bonus Effect:
+Skill Effect:
+{0} {1} Passive
+Reaching Level {0} Will Grant:
+Health Points
+Gain {0}{1} Health Points
+More Health
+Gain {0} More Health
+Health Regen
+Gain {0} of Max HP Per Second
+Armour Rating
+Gain {0}{1} Armour Rating
+Increased Armour
+Gain {0} Increased Armour
+Evasion Rating
+Gain {0}{1} Evasion Rating
+Increased Evasion Rating
+Gain {0} Increased Evasion Rating
+Barrier
+Gain {0}{1} Barrier
+More Barrier
+Gain {0} More Barrier
+Damage
+Gain {0}{1} Damage
+Attack Speed
+Gain {0} Attack Speed
+Double Damage
+Gain {0} Double Damage
+Melee Damage
+Gain {0}{1} Melee Damage
+Ranged Damage
+Gain {0}{1} Ranged Damage
+Magic Damage
+Gain {0}{1} Magic Damage
+Melee Resistance
+Gain {0}{1} Melee Resistance
+Ranged Resistance
+Gain {0}{1} Ranged Resistance
+Magic Resistance
+Gain {0}{1} Magic Resistance
+Physical Resistance
+Gain {0}{1} Physical Resistance
+Elemental Resistance
+Gain {0}{1} Elemental Resistance
+Critical Chance
+Gain {0} Critical Chance
+Critical Avoidance
+Gain {0} Critical Avoidance
+Ailment Avoidance
+Gain {0} Ailment Avoidance
+Luck
+Gain {0} Luck
+Fortune
+Gain {0} Fortune
+Critical Damage
+Gain {0} Critical Damage
+Critical Defence
+Gain {0} Critical Defence
+Stun Avoidance
+Gain {0} Stun Avoidance
+Fate
+Gain {0} Fate
+Wealth
+Gain {0} Wealth
+Flask Effect
+Gain {0} Flask Effect
+Ailment Effect
+Gain {0} Ailment Effect
+Venom
+Gain {0} Venom
+{0} enhances your {1} Damage
+Flare
+Gain {0} Flare
+Maim
+Gain {0} Maim
+All Resistance
+Gain {0} All Resistance
+Armour Penetration
+Gain {0} Armour Penetration
+Arcane Penetration
+Gain {0} Arcane Penetration
+Physical Penetration
+Gain {0} Physical Penetration
+Fire Penetration
+Gain {0} Fire Penetration
+Cold Penetration
+Gain {0} Cold Penetration
+Lightning Penetration
+Gain {0} Lightning Penetration
+Healing Effectiveness
+Gain {0} Healing Effectiveness
+Buff Duration
+Gain {0} Buff Duration
+Debuff Duration
+Gain {0} Debuff Duration
+Boss Damage
+Deal {0} More Boss Damage
+Cooldown Reduction
+Gain {0} Cooldown Reduction
+Adaptive Damage
+Gain {0} Adaptive Damage
+Unable to change Ascendancy Class while {0} is in an active encounter.
+Are you sure you want to respec your current Ascendancy? You will lose all current experience but retain your Ascendancy Level should you choose to return to the {0} Ascendancy.
+In order to respec your Ascendancy you must have at least 1 free inventory slot.
+Inventory Full
+In order to Ascend you must have at least 1 free inventory slot.
+Ascendancy Confirmation
+Are you sure you want to make {0} as {1}?
+Berserker Rage
+Launch into a furious rage increasing your damage but making you vulnerable
+While affected by {0} gain {1} More Attack Speed, deal {2} More Damage and take {3} More Damage. Lasts {4} Seconds. When a target is slain the duration is increased by {5} Seconds. Duration cannot be extended beyond {6} Seconds.
+While affected by {0} gain {1} More Attack Speed and deal {2} More Damage. Lasts {3} Seconds. When a target is slain the duration is increased by {4} Seconds. Duration cannot be extended beyond {5} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Unending Rage
+When a target is slain {0} is extended by an additional {1} Seconds
+Ignore Pain
+Reduces the Damage Taken penalty by {0} of its total
+Bloodthirst
+While affected by {0} hitting a target will restore {1} of Max HP
+Enrage
+While affected by {0} deal an additional {1} More Damage
+Unwavering Stance
+Steel your resolve gaining a bonus to damage and defence
+While affected by {0} take {1} Less Damage and gain {2} Double Damage. Lasts {3} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Extra Protection
+While affected by {0} take an additional {1} Less Damage
+Heavy Blows
+While affected by {0} deal {1} More Damage
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Brutality
+While affected by {0} gain {1} Triple Damage
+Bastion
+Become an immovable object protecting yourself from harm
+While affected by {0} take {1} Less Damage and gain {2} Block Chance and {3} Block Rating. Lasts {4} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Extra Protection
+While affected by {0} take an additional {1} Less Damage
+Replenishing Protection
+While affected by {0} whenever an attack is {1} gain {2} of Max HP
+Impervious
+While affected by {0} gain {1} Ailment Avoidance
+The Best Defence
+While affected by {0} deal {1} More Damage
+Preparation
+Carefully prepare for a deadly assault on your foes
+While affected by {0} deal {1} More Damage on Full HP and gain {2} Dodge Chance. Lasts {3} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+New Contract
+When a target is slain {0} is extended by {1} Seconds. {2} Cannot be extended beyond {3} Seconds
+Careful Planning
+While affected by {0} deal an additional {1} More Damage on Full HP
+Rapid Strikes
+While affected by {0} gain {1} More Attack Speed
+Elusive
+While affected by {0} gain {1} Dodge Chance for {2} Seconds when a target is slain
+Aimbot
+You just can't miss!
+While affected by {0} gain {1} Critical Chance, {2} Critical Damage and deal {3} More Damage. Lasts {4} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Sharpshooter
+While affected by {0} gain {1} Critical Chance and {2} Critical Damage
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Haste
+While affected by {0} dealing a Critical Strike will grant {1} Attack Speed for {2} Seconds
+Dodge Chance
+While affected by {0} gain {1} Dodge Chance
+Survival Instincts
+Your natural instincts kick in and provide a bonus to damage and defence
+While affected by {0} gain {1} Double Damage, {2} Dodge Chance and take {3} Less Damage. Lasts {4} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Extra Protection
+While affected by {0} take an additional {1} Less Damage
+Dodge Chance
+While affected by {0} gain {1} Dodge Chance
+Tactical Advantage
+While affected by {0} deal {1} More Damage
+Double Damage
+While affected by {0} gain {1} Double Damage
+Evocation
+Channel Arcane power increasing your damage dealt
+While affected by {0} gain {1} Double Damage and deal {2} More Damage. Lasts {3} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Critical Chance
+While affected by {0} gain {1} Critical Chance
+Critical Damage
+While affected by {0} gain {1} Critical Damage
+Attack Speed
+While affected by {0} gain {1} More Attack Speed
+Arcane Recovery
+While affected by {0} restore {1} of Max HP every Second
+Rune Of Power
+Place a rune of power beneath your feet granting increased damage an attack speed
+While affected by {0} gain {1} More Attack Speed and deal {2} More Damage. Lasts {3} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Empower
+While affected by {0} gain an additional {1} More Attack Speed
+Runic Strength
+While affected by {0} gain {1} Critical Chance
+Elemental Resistance
+While affected by {0} gain {1} Elemental Resistance{2}
+Increased Duration
+{0} gain an additional {1} Seconds duration
+Prismatic Barrier
+Protect yourself with a barrier of pure magic
+While affected by {0} gain {1} Barrier Regen, deal {2} More Damage and take {3} Less Damage. Lasts {4} Seconds.
+Cooldown Reduction
+The Cooldown of {0} is reduced by {1} Seconds
+Extra Protection
+While affected by {0} take an additional {1} Less Damage
+Arcane Conversion
+Taking damage while affected by {0} grants Barrier equal to {1} of the damage taken
+Block Chance
+While affected by {0} gain {1} Block Chance
+Increased Duration
+{0} gains an additional {1} Seconds duration
+Luck
+Increases the Quality of {0} Rewards by {1}
+Fortune
+Increases the Quantity of {0} Rewards by {1}
+Fate
+Increases the amount of Experience granted by each {0} by {1}
+Paragon Chance
+Increases the chance for {0} Rewards to be {1} Quality by {2}
+Paragon Level
+Increases the chance for {0} Rewards to be a higher {1} Level by {2}
+Material Gain
+Increases the amount of Materials granted by each {0} by {1}
+Pathfinder Equipment
+Gain an additional {0} chance to find {1} Exclusive Items
+Nemesis Chance
+Increases the chance for each {0} to contain {1} Monsters and Rewards by {2}. Grants a {3} chance for each Bounty Equipment Reward to be {4}.
+Grants {0} {1}
+Censure
+Sources of Damage Over Time can now Critically Hit but you have {0} Critical Chance
+Endure
+Purify
+Critical hits remove a stack of {0}
+Blessed
+Critical Strike chance over {0} now provides a chance to Double Crit
+Overwhelm
+Purpose
+Grants {0} Less Health and {1} More Barrier. Max Barrier is now uncapped by HP
+Devotion
+Health Regeneration now applies to Barrier instead
+Defiance
+Wearer cannot take more than {0} of Max HP in a single hit. This effect can only occur once every {1} Seconds
+Thrash
+Default Attacks have a {0} chance to trigger an additional cast
+Rebirth
+Wearer has a {0} chance on taking fatal damage to heal to {1} of Max HP
+Envy
+Dealing Direct Damage with a {0} has a {1} chance to steal a buff from the target
+Cleanse
+Every {0} Seconds a random debuff is removed from the wearer
+Cull
+Executes can now apply to Bosses at {0} of the Execute HP threshold
+Avarice
+When a target is slain gain a stack of {0} that grants {1} Wealth. Max {2} stacks
+Toxic
+Every {0} Seconds apply a stack of Poison to all targets dealing {1} Weapon Damage per Second for {2} Seconds
+Guard
+Grants {0} Block Chance and {1} Block Rating
+Vulnerable
+Apply {0} stack of {1} to each target hit granting {2} {3}. Maximum of {4} Stack per {5} Character Levels
+Conflagrate
+Rime
+Fulminate
+Esoteric
+Ground
+Warmth
+Douse
+Gauze
+Antidote
+Mend
+Amplify
+Wither
+Refresh
+Heal for {0} of Max HP when {1}
+Coalesce
+Deal {0} More Damage for each {1} item equipped
+Circumvent
+Butcher
+When a Boss is slain gain a stack of {0} that grants {1} More Damage. Max {2} stacks
+Recoup
+Slaughter
+Deal {0} More Damage to Bosses
+Expedient
+Reduces the number of Non Boss Stages each Mission has by {0}
+Covet
+Grants {0} Fortune and {1} Luck
+Sever
+{0} chance when dealing {1} Damage to cast {2} on the target
+Incinerate
+Glaciate
+Galvanise
+Occult
+Destiny
+Elusive
+Bruiser
+Grants {0} Less Attack Speed and {1} More Damage
+Rebound
+Deal {0} Physical Weapon Damage to an attacker when hit by Non DoT Direct Damage
+Necrotic
+Applies {0} stack of {1} to the target granting {2} Healing Effectiveness for {3} Seconds. Max {4} stacks
+Onslaught
+Gain a {0} chance when using a Default Attack to reset the active Offensive Cooldown
+Sentinel
+Gain a {0} chance when taking Non DoT Damage to reset the active Defensive Cooldown
+Scour
+When damaged below {0} HP remove all stacks of {1}, {2} and {3}. Can only occur once every {4} Seconds
+Avenge
+When an ally is slain deal {0} More Damage and take {1} Less Damage for {2} Seconds
+Bane
+Wrath
+Deal {0} More Damage for each {1} applied to you
+Distil
+Aegis
+Combo
+Using a Default Attack grants a stack of {0}. When using an Offensive Cooldown deal {1} More Damage for each stack of {0} and lose all stacks. Max {2} Stacks
+Gaining power...
+Your attacks have a {0} chance to {1} the target for {2} Seconds.
+When you use a Skill apply a stack of {0} to the target dealing {1} Skill Damage over {2} Seconds.
+When a target is slain deal {0} More Damage for {1} Seconds. Stacks up to {2} times.
+When you {0} an attack you have a {1} chance to negate the entire hit and restore {2} of Max HP.
+Your attacks deal {0} More Damage for each stack of {1}, {2} and {3} on the target. Capped at {4} stacks.
+Your attacks deal {0} More Damage for each percent of Block Chance you have.
+Your attacks deal {0} More Damage for each percent of Dodge Chance you have.
+Lightning Conductor
+Dealing {0} Damage over Time
+{0} chance on Critical Strike to gain the {1} effect. {1} deals {2} Lightning Damage to all targets every Second for {3} Seconds.
+{0} chance on Critical Strike to remove a stack of {1} from the caster.
+{0} chance on Critical Strike to remove a stack of {1} from the caster.
+{0} chance on Critical Strike to remove a stack of {1} from the caster.
+Your attacks deal {0} More Damage to targets unaffected by {1}, {2}, or {3}.
+Your attacks deal {0} More Damage for each unique Debuff on the target.
+Your attacks gain {0} Critical Damage against targets below {1} Max HP.
+Your Default Attacks execute non boss targets below {0} Max HP
+Your attacks have a {0} chance to {1} the target for {2} Seconds.
+Your Direct Attacks have a {0} chance on hit to {1} targets affected by {2} for {3} Seconds.
+Your attacks have a {0} chance to apply a random {1} to the target.
+Your attacks gain {0} Critical Chance against targets affected by {1}, {2}, or {3}.
+Slaying a Boss resets the Cooldown of your {0}.
+Your attacks bypass the targets base Armour. Armour Penetration still applies after this effect.
+Your attacks gain {0} Double Damage against targets below {1} Max HP.
+Webbed
+Grants your attacker {0} Less Attack Speed for {1} Seconds when you are hit by a Direct Attack.
+Your attacks restore {0} of Max HP for each Debuff on the target.
+When you drop below {0} HP apply {1} to all targets for {2} Seconds. This effect can only occur once per Mission Loop.
+When you {0} or {1} an Area Attack reduce the Cooldown of your {2} by {3} Second.
+Hillstrider's Boon
+When you {0} or {1} an attack deal {2} More Damage and gain {3} More Attack Speed for {4} Seconds.
+Your attacks deal {0} More Damage while affected by a {1}
+{0} chance when using an {1} that the Cooldown is instantly reset.
+Restore {0} of Max HP when a stack of {1}, {2}, or {3} is applied to the caster.
+Gain {0} Healing Effectiveness while below {1} HP.
+You attacks gain {0} more value from {1} against targets affected by {2}.
+Your attacks gain {0} Critical Damage for each ailment the target is affected by.
+Nature's Trust
+When hit by an attack restore {0} of Max Barrier per Second for {1} Seconds. This effect can stack up to {2} times.
+Your attacks gain {0} more value from {1} against targets affected by {2}.
+Wildfire
+Applying a stack of {0} to the target grants {1} Attack Speed for {2} Seconds. This effect can stack up to {3} times.
+Lord's Resistance
+When hit by an attack gain {0} Resistance to each Damage Type of the attack. This effect is overwritten each time your are hit.
+Your attacks gain {0} more value from {1} against targets affected by {2}.
+Dwarven Vulnerability
+{0} chance on hit to reduce the targets Armour by {1} for {2} Seconds.
+Material Storage I
+Material Storage cap is increased by {0}
+Material Storage II
+Material Storage III
+Donation Credit Gain
+{0} Donation Credits gained
+Double Scrap
+{0} chance for double scrap rewards
+Faster Gathering
+Reduces the gathering tick time by {0} Seconds
+Double Resources
+{0} chance for double Gathering rewards
+Tool Fortune
+{0} increased chance to find Tools
+Tool Luck
+{0} chance for dropped Tools to be at least {1} Quality
+Fortune
+{0} Fortune
+Luck
+{0} Luck
+Fate
+{0} Fate
+Wealth
+{0} Wealth
+No {0} Selected
+Attribute Distribution:
+Drop Location:
+{0} x{1}
+{0} Info
+Undiscovered {0}
+Scrap Materials:
+Obtain this {0} to unlock more information
+Armour Class:
+Completed
+Defeated
+Encountered
+Obtained
+Recipe Learned
+Enchant Slots:
+Enchant Description:
+Obtain an item or recipe with this Enchant to unlock more information
+Flask Effect:
+Refill Materials:
+Craft this Flask to unlock more information
+Gem Attributes:
+{0} Random Attributes
+Gem Enchants:
+{0} Random Basic Enchants
+Campaign Maps
+Bonus Maps
+Faction Dungeons
+Monsters:
+Bosses:
+Source:
+Encounter this Ability to unlock more information
+Damage Types:
+Weapon Damage:
+Cast Time (Seconds):
+Cooldown Time (Seconds):
+Map Locations:
+Monster Abilities:
+Item Drops:
+Slay this Monster to unlock more information
+Damage Range:
+Health Points:
+Armour Percentage:
+Experience Granted:
+Defence Rating:
+Block Chance:
+Block Rating:
+Bonus Damage:
+Attack Speed:
+Barrier:
+Relic Attributes:
+{0} level scaled Attributes
+Basic Tools
+Soul Tools
+Provides the ability to gather resources from the {0} Profession
+{0} Seconds
+Attack Time:
+Damage Type:
+Max Consecutive Completions:
+{0} is a game about creating a team of adventurers and sending them off to clear dungeons while you take care of the loot and materials they find.
+This glossary page will attempt to provide some additional information on some of the key features of this game.
+A {0} is an adventurer that can be sent to clear dungeons and collect loot for you. You can have up to {1} total {2}.
+A {0} can be one of {1} Classes that each have {2} Default Skills, {3} Offensive Cooldowns and {4} Defensive Cooldowns to choose from.
+Each {0} once level {1} can be upgraded into an Ascendancy Class, each base class has {2} Ascendancy Classes to choose from.
+Each level or Ascendancy level that a {0} gains will reward a passive point that can be used to upgrade their power.
+{0} is an item that can be equipped to a Character. Each character has multiple {1} slots that can be filled.
+{0} is primarily obtained from slaying Monsters. Some {1} can also be crafted up to a certain quality while {2} Items cannot be crafted and can only be looted.
+Most types of {0} can be obtained from Level {1} however Accessories can only be obtained from level {2} onwards and Relics can only be obtained from level {3} onwards.
+{0} can drop at various rarity levels starting from {1} and raising in quality until {2}.
+Each new rarity tier will introduce a new attribute slot to the item and will provide higher base attribute ranks.
+Holding Ctrl while looking at a piece of unequipped {0} will provide a comparison tooltip that will show the approximate stat difference between the new item and the currently equipped one. (Note that the comparison values don't take into account sockets or enchants.)
+Holding Shift and Left Clicking a piece of {0} will attempt to Equip or Unequip it.
+A {0} is an encounter between {1}-{2} Characters facing off against the Monsters of a dungeon before attempting to slay the Boss.
+Up to {0} {1} slots can be purchased allowing for multiple different dungeons to be run at the same time.
+Running a {0} will grant Expertise which can be used to purchase upgrades for the Dungeon being run. Expertise upgrades can increase the difficulty and also the rewards of the dungeon. Running a {1} that is lower level than the participants will reward reduced or even no Expertise.
+Successfully clearing multiple Boss floors in a {0} will grant a stacking buff that rewards additional higher quality loot until the party is defeated.
+{0} occupy Missions and must be defeated in order to progress to the next floor.
+Level {0}+ {1} have a {2} base chance to spawn as {3} increasing their stats and rewards.
+Level {0}+ {1} have a {2} base chance to spawn as {3} increasing their stats and rewards.
+Level {0}+ {1} have a {2} base chance to spawn as {3} increasing their stats and rewards and granting access to Nemesis Items.
+In addition to rarity Level {0}+ {1} have a {2} base chance to spawn with an elemental empowerment granting new skills and modifying their damage type.
+Slaying a Boss will reward a Loot Chest of minimum {0} quality which can be opened with right click.
+{0} takes place on the combat menu in the form of a simulated battle between player Characters and enemy Monsters.
+Each in game tick ({0}) will progress the Character and Monsters action bar. Once full the default attack or current monster ability will be cast.
+When all opposing Monsters are defeated the next stage will be selected and new monsters will spawn. By default {0}-{1} Monsters will spawn per wave depending on the number of Characters on the Mission.
+Should all Characters be defeated a {0} will occur. Should a restart mode be selected the Mission will automatically restart after a game over.
+The {0} option will attempt to restart the Mission after the Boss stage is completed should {1} or more Characters be defeated.
+{0} is a very important part of the game. {1} allows for the collection of Crafting Materials from spare items and equipment.
+Items can be {0} by placing them into the Scrapper (once unlocked) or automatically depending on your Auto Scrap configuration (Unlockable).
+{0} and {1} materials that you receive through {2} can be {3} into lower quality versions by Ctrl + Right Clicking them in the Material Inventory.
+Any Item that is dropped but cannot be placed into the inventory due to lack of space or suitable bag filters will be automatically scrapped and you will receive the materials instead. (Note that unequipped items or Reward Chest items will force themselves into the inventory ignoring any bag filters if necessary.)
+Material Tiers in {0} are as follows:
+Tier {0}: Level {1}
+{0} is an essential component of the game. {1} can be used to generate new items or modify existing items.
+Items generated from {0} can only be {1} up to {2} quality to encourage hunting for rarer items from Missions.
+Crafting provides the ability to almost completely customize the stats of most {0} that you find.
+This includes: Rerolling the attributes, randomising the attribute ranks, locking the attributes to make it easier to reroll the rest and upgrading the attribute ranks thereby increase the value of the stat each attribute grants.
+In addition {0} can be used to add Sockets to items and Enchant them later in the game.
+{0} can be accessed from the Upgrade Menu and provide the means of unlocking additional content and game features.
+Each {0} must be first unlocked which can be done by following the hint text.
+Once unlocked a {0} can be purchased and upgrade using various Crafting Materials and Currency to do so.
+Some {0} offer quality of life such as Automatic Casting or Scrapping. Others offer new features such as Professions, Bonus Stages or Loadout Slots.
+{0} provide a means of passively collecting Crafting Materials.
+By Default each {0} Worker slot will generate {1} {2} resource per Harvest and has a {3} chance to additionally generate a {4} resource.
+{0} Workers Slots can be equipped with {1} that will augment the number of Crafting Materials obtained and the chance for {2} resources to be found.
+Socketed {0} can be acquired after Level {1} allowing for {2} to be used.
+Socketed {0} can be identified by small white dots on the item icon representing the number of present sockets. Additionally the item tooltip will display the number of available sockets.
+{0} can be equipped at any point but will only become active once the corresponding Socket has been unlocked by equipping socketed {1}.
+Most {0} have fixed attributes with a Set Bonus that is granted when a specific number of {1} of the same type are equipped.
+{0} can either be Crafted or Looted depending on what upgrades have been unlocked.
+{0} can be unlocked at Level {1} and can be Crafted and Upgraded on the {2} Menu.
+{0} provide a way to grant Passive or Active bonuses to your Characters while in Combat.
+{0} use charges to activate and must be refilled from the {1} Menu using Crafting Materials gathered from the Farming Profession.
+Some {0} provide very powerful effects but require a {1} resource to refill and so should be used carefully.
+Upon reaching level {0} each {1} can select an {2} which will unlock a powerful new cooldown ability and reward a new {3} Relic.
+Once an {0} has been chosen each {1} will begin gaining experience once again from slaying monsters.
+As each new {0} Level is reached a new {1} must be completed in order to unlock access to the next {2} level.
+Information regarding each {0} and your current progress can be found by pressing the {1} button on the Inventory Panel.
+{0} are an Endgame {1} upgrade that can be acquired at Level {2}+.
+Each {0} can be applied to specific {1} Types and has one of {2} different Rarities depending on the power of the {3}.
+{0} {1} can drop naturally from Level {2}+ Bosses. In addition these Bosses can drop {3} Scrolls which grant the ability to Craft the {4} on any valid piece of {5} you have.
+While multiple of the same {0} may be equipped at once but only bracketed values shown in green will stack.
+{0} are granted for completing various objectives and serve as a way to track your progress through the game.
+Each {0} gained will provide a global bonus to the rewards you receive.
+{0} progress can be tracked on the {1} Menu.
+{0} are a form of late game content that becomes available shortly after level {1}.
+Once {0} are unlocked entering the {1} Menu will provide {2} different {3} to choose from. Selecting one of these {4} will cause it to enter your storage and the remaining {5} to be rerolled.
+Each {0} represents a short Mission with a random objective and rewards. Slaying Monsters in {1} will not reward Experience or Loot, instead this will be rewarded upon successful completion. Restarting a {2} via character deaths or otherwise will result in it's objective progress being reset.
+Multiple {0} can be stored at once and run at your discretion. When running a stored {1} you will have to opportunity to instruct your team to attempt all {2} in the storage queue allowing you to chain {3} back to back.
+In addition to the {0} queue you will have the option to enable or disable retry attempts for each {1}.
+During {0} you may encounter multiple different {1}. These are are temporary debuffs that apply negative or damaging affects to the target. Currently there are {2} {3} as listed below:
+{0} causes affected targets to take More Damage.
+{0} causes affected targets to attack slower.
+{0} causes affected targets to take damage over time. {1} typically deals {2} Damage.
+{0} causes affected targets to take damage over time. {1} typically deals {2} Damage.
+{0} causes affected targets to take damage over time. {1} typically deals {2} Damage.
+{0} are an endgame mechanic found in {1}, they provide a permanent debuff for the duration of {2} reducing the attributes of each affected target. Currently there are 6 different {3}:
+{0}: causes affected targets to deal Less Damage and have less Critical Chance and Critical Damage;
+{0}: causes affected targets to have reduced Armour and Resistances.
+{0}: causes affected targets to have reduced Attack Speed, Evasion Rating and Dodge Chance;
+{0}: causes affected targets to have reduced Healing Effectiveness and lose HP over time.
+{0}: causes affected targets to have reduced Ailment Avoidance and take More Damage.
+{0}: causes affected targets to have reduced Buff Duration and increased Debuff Duration
+Damage Types
+Weapon Damage Types
+Core Damage Types
+Target Damage Types
+Direct
+Area
+Skill Damage
+Normalized Weapon Damage
+{0} has several different {1}. These {1} are typically split between 3 different groups:
+{0}: {1}, {2}, and {3}. These {4} vary based on the Weapon used. Default attacks require specific {0} while Offensive Cooldowns inherit {0} from your Equipped Weapons.
+{0}: {1}, {2}, {3}, {4}, and {5}. These {6} are tied to the Skills used.
+{0}: {1} attacks hit only 1 target while {2} attacks hit more than 1 target.
+In addition to these {0} there are some other Damage Methods that require explanation:
+{0}: Effects that deal {0} inherit the {1} of the Skill that triggered it.
+{0}: Effects that deal {0} inherit the {1} of the current {2}. In addition the Damage of these effects is scaled by Attack Speed, Critical Strike Chance / Damage and Double / Triple Damage chance.
+{0} are a form of endgame content that becomes available while progressing through the {1} system.
+While running {0} you will face randomised Monster and Boss spawns augmented by various {1} that you have selected. The more {1} applied to a Mission the higher the {2}.
+The {0} of a Mission determines the intensity of each of the {1} in addition to the quantity and quality of rewards that can be obtained.
+In addition as you increase the {0} of a Mission your chance to encounter {1} or even {2} will increase.
+{0} can be run any number of times by any number of teams and a {1} is provided to allow for the storage of your favourite Modifier Loadouts.
+After progressing through the {0} system you will unlock access to the {1} system.
+{0} represent different groups within {1} that you can assist by defeating Monsters in their associated {2}.
+{0} are long and challenging missions that require you to defeat multiple mini bosses before facing the final boss. {0} will test your teams endurance.
+Defeating Monsters in {0} will grant {1} reputation. Defeating the final boss of each {2} will grant a large amount of reputation.
+As you gain more {0} reputation you will unlock access to {1}. {1} can be used in addition to your current {2} and {3}. {1} have their own passives which can be allocated as you gain more {0} reputation.
+Each {0} also specialises in a specific material type and will provide large amounts of these materials when you reach a new reputation level or complete a {1}.
+Show Tutorials:
+Introduction
+Welcome to {0}. To begin please create your first {1} by choosing a Name, Avatar and Class to use.
+Missions I
+Now that your have created a {0} you can send them on a {1}. To do this please select the {2} Menu.
+Missions II
+Click the first {0} then select the {1} button to the Lower Right of the Screen.
+Mission III
+Select the {0} you wish to use to complete the {1} and Click the {2} button to start the {3}.
+Combat
+The {0} Menu allows you to view your current {1} progress. Right Clicking a {2} portrait will provide some useful interactions.
+Item Drops
+You just received a new piece of {0}. Right Click the item to open a context menu allowing you to Equip or Lock the {1}. Holding Ctrl while moused over the item will display additional information.
+Character Slots I
+You now have enough {0} to purchase a second {1} Slot. This can be done from the {2} Menu.
+Character Slots II
+You now have enough {0} to purchase a third {1} Slot. This can be done from the {2} Menu.
+Upgrades I
+You can now purchase {0} allowing you to augment your gameplay and unlock new features. Select the {1} Menu to view the available upgrades.
+Upgrades II
+Click the first {0} to view the benefits of each rank along with its material cost. This information is display on the right hand panel.
+Crafting I
+You have just unlocked the {0} Menu which can be used to craft new items.
+Crafting II
+This is the {0} Menu. This menu can be used to craft any items that you have unlocked the recipe for. Try scrapping items to find new recipes.
+Professions I
+You have just unlocked the {0} Menu which can be used to view your active workers and modify the materials you gather.
+Professions II
+This is the {0} Menu. This menu can be used to change the materials to be gathered by using the dropdown options. Should you find any {1} you can equip them here by Right Clicking the item or using Drag and Drop.
+Flasks I
+You have just unlocked the {0} Menu which can be used to craft, refill and upgrade {1}.
+Flasks II
+This is the {0} Menu. Clicking a {1} on the Left Panel will provide the ability to {2} the {3} or Refill and Upgrade it.
+Ascendancy Class
+Congratulations on reaching Level 100!. A {0} that reaches Level 100 can select an {1} to upgrade to. This can be done from the Equipment Menu by clicking the button on the Lower Right.
+Ascendancy Challenges
+Now that you have chosen an {0} you have unlocked access to {1}. {2} allow you to gain additional Levels beyond Level 100 once certain challenges have been completed. To see more information click the {3} button at the Top Right of the Inventory Panel.
+Active Skills
+You just unlocked your first {0}. You can cast this Skill in {1} by Left Clicking it. Alternatively, upgrade the {2} to gain the ability to automatically cast this skill off cooldown.
+Gem Sockets
+You just obtained a piece of {0}. {1} can have up to 4 Sockets depending on the type of item. The number of sockets is represented by small white dots on the items icon. Equipping {2} will unlock {3} slots allowing you to gain powerful bonuses.
+Bounties I
+You just unlocked {0}! To access the {1} Menu navigate to the {2} Menu and Click the {3} Button on the bottom of the page
+Bounties II
+From this Menu you will be able to select between one of 3 different {0}. Selecting a {1} will cause the other {2} to be rerolled. {3} Rewards can be viewed on the panel to the right. Restarting a {4} via character deaths or otherwise will result in it's objective progress being reset.
+Material Donation I
+You just unlocked the ability to Donate Materials for {0}. This can be done from the {1}. To load the {2} press the {3} button above the Inventory.
+Material Donation II
+Welcome to the {0}. From here you can donate your spare materials to gain {1} by Right clicking them and selecting the amount to donate. You can also {2} some materials into lower quality versions by Ctrl + Right clicking them.
+Community Upgrades
+You just unlocked the Community Upgrade Passives. These can be found on the {0} and can be purchased using the {1} that you get from Donating Materials.
+Agony Missions I
+You just unlocked {0}! Open the {1} and select the {0} tab to get started.
+Agony Missions II
+{0} are a build your own Mission system. Select a Mission slot then add a Modifier and begin the Mission. As you complete {0} you will unlock more Modifiers and the ability to add more to a Mission at one time. The more Modifiers the greater the challenge and reward!
+Factions I
+You just unlocked {0}! To access the {1} Menu navigate to the {2} Menu and Click the {0} Button on the bottom of the Page.
+Factions II
+Each {0} has an associated {1} that you can run to gain {0} Reputation. As you earn Reputation you will gain access new Skills, Upgrades, and higher Tier {2}.
+Faction Skills
+You just unlocked your first {0}! This Skill can be used in addition to your existing {1} and {2} and can be allocated at the {3}.
+Update Notice
+Due to the latest update all Skill Passives have been reset and all Skill Mastery Levels have been reduced to 10.
+Due to the latest update all your {0} gems with a {1} Enchant have had their {2} Enchant rerolled.
+Ascendancy Rework
+{0} Cooldowns have been replaced with new Bonus effects. Each {0} Class has a new selection of Passives to choose from.
+Expertise Level {0}
+A Greater Threat
+Reduce the number of stages required to find the mission boss by {0}
+Inspired Learning
+Monsters on this mission provide {0} {1}
+Magic Nullification
+{0} Monsters cannot spawn on this mission
+Rare Nullification
+Nemesis Nullification
+Empowered Nullification
+Magic Amplification
+{0} chance to find {1} Monsters on this mission
+Rare Amplification
+Nemesis Amplification
+Empowered Amplification
+Unbridled Prosperity
+Abandoned Wealth
+Immovable Object
+Monsters on this mission have {0} More Health and provide {1} {2}
+Unstoppable Force
+Monsters on this mission deal {0} More Damage and provide {1} {2}
+Just Rewards
+Boss Reward Chests have a {0} chance to be {1} quality or better. Bosses have {2} More Health and deal {3} More Damage.
+Double Trouble
+Boss stages have a {0} chance to spawn {1} additional boss
+Treasure Nullification
+The {0} cannot spawn on this mission
+Treasure Amplification
+{0} chance to find the {1} on this mission
+Reroll Attributes
+Rerolls the attributes of an item.
+Successfully Rerolled Attributes!
+There are no valid Attributes to Reroll
+There are no unlocked Attributes to Reroll
+Reroll Target
+All Attributes
+Offensive Attributes
+Defensive Attributes
+Utility Attributes
+Missing a valid item to modify
+Select an Item to begin
+Item cannot be modified
+Transmute Attributes
+Transmute one Attribute into another of the same type. Relics can have a maximum of 1 Attribute Transmuted
+Successfully Transmuted Attributes!
+There are no valid Attributes to Transmute to.
+There are no valid Attributes to Transmute
+No Transmute uses left
+Are you sure you want to Transmute {0} to {1}? You may only Transmute this Relic 1 time.
+No valid Attribute selected
+Attribute To Transmute
+Attribute Target
+There are no valid Attributes to modify
+Randomise Attribute Ranks
+Randomises the rank of each attribute. Can roll higher than normal. The maximum roll will not be overwritten.
+Successfully Randomised Attribute ranks!
+There are no unlocked Attributes to Randomise
+Randomise Target
+Lock / Unlock Item Attributes
+Lock Attributes
+Lock an Attribute preventing it from being Rerolled.
+Successfully Locked {0}
+There are no valid Attributes to Lock
+Unlock Attributes
+Unlock an Attribute allowing it to be Rerolled.
+Successfully Unlocked {0}
+There are no valid Attributes to Unlock
+Lock Target
+Unlock Target
+Upgrade Attributes
+Upgrade an Attribute to increase it's rank
+Attributes Upgrades!
+Successfully Upgraded {0} to Rank {1}
+Upgrade Target
+Critical Result!
+Max Attribute Rank:
+Upgrade All Attributes:
+Add Sockets
+Adds a Socket to an item
+Successfully added {0} Sockets to {1}
+Successfully added a Socket to {0}
+Item cannot have Sockets
+Item has max Sockets
+Item must be at least Item level: {0}
+Max Sockets:
+Are you sure you want to Enchant this item with: {0}?
+Invalid Enchant
+Enchant: {0} with: {1}
+No empty Enchant slots
+Successfully Enchanted the item with: {0}
+Invalid Equipment Type
+Remove Enchant
+Removes an Enchantment from an Item
+Are you sure you want to remove the {0} Enchant from the Item?
+No Enchants to remove
+Enchant To Remove
+Nemesis Infusion
+Infuses an Item with {0} Attributes
+Successfully upgrade the Item to {0}
+The Item is already {0}
+The Scrapper is Full
+Add Paragon Levels
+Add Paragon Levels to an Item
+Successfully upgraded the Item to {0} {1}
+Cannot raise the Paragon Level of this Item
+Max Paragon Level:
+Item Rarity
+Crafts a {0} {1}
+Item will require Level {0} to equip
+Failed to craft due to lack of Inventory space
+Successfully crafted {0}
+Item Level
+Invalid Recipe
+No Recipes
+Try scrapping more Items to find Recipes
+Equipment Crafting
+Craft Weapon
+Craft a new Weapon
+Craft Armour
+Craft some new Armour
+Craft Accessory
+Craft a new Accessory
+Craft Offhand
+Craft a new Offhand
+Craft Tool
+Craft a new Tool
+Craft Gems
+Craft a new Gem
+Equipment Modification
+No Recipe Selected
+There is no Recipe selected
+Insufficient resources to complete the Craft
+Right Click an Item to begin Upgrading
+This Item cannot be Upgraded
+Recipe: Enchant - {0}
+Learn Recipe
+Would you like to learn how to Craft the enchant: {0}
+Reinforce Equipment
+Add Reinforcement Levels to an Item
+Cannot Reinforce this Item Type
+Cannot raise the Reinforcement Level of this Item
+Max Reinforcement Level:
+Successfully upgrade the Item to {0} {1}
+Randomise Nemesis Ranks
+Randomises the rank of each {0} Attribute. The maximum roll will not be overwritten. Each additional Craft on an Item increases the {1} cost.
+Successfully randomised the {0} Attributes!
+There are no {0} Attributes to randomise.
+Reroll Nemesis
+Rerolls the {0} Attributes of an Item. Each additional Craft on an Item increases the {1} cost.
+Successfully rerolled the {0} Attributes!
+The Item must be {0} quality.
+Guaranteed {0} Attribute:
+Imbue Equipment
+Sacrifice an Item to Imbue another item with its Attributes and Attribute Distribution. Items must be of the same Type and Rarity. Mythical Items are compatible with Divine Items.
+Items must be the same Type and Rarity.
+You must select an Item to Sacrifice.
+Successfully Imbued {0} with the Attributes of {1}.
+Warning: this action will destroy {0}. All modifications will also be transferred to {1}. Do you wish to continue?
+Item to Sacrifice:
+Equipped Items cannot be Sacrificed!
+Basic Equipment Modification
+Advanced Equipment Modification
+Nemesis Modification
+Imprint Attributes
+Store an Imprint of an Items Attributes and copy it to a new Item
+Store Imprint
+Copy Imprint
+Imprint Setting:
+No Imprint Stored for {0}
+Stored Imprint for {0}:
+Only {0} Items can be Imprinted.
+No Imprint Stored
+Are you sure you want to Copy the stored Attributes? This will reroll all Attributes and Attribute Ranks
+Are you sure you want to Overwrite your existing Imprint?
+Successfully stored Imprint for {0}!
+Successfully copied the Imprinted Attributes!
+Bless Equipment
+Bless the Equipment increasing the potency of the Bonus Attribute by 25% for each Blessing used.
+{0} Items cannot be Blessed.
+The Equipment has no Bonus Attributes to Bless!
+Use Available Blessings:
+Successfully Blessed {0}!
+This Item cannot be Blessed any further.
+加载游戏
+New Game
+Settings
+Exit Game
+Import Save
+Export Save
+Delete Save
+Save not compatible with Demo
+Save format is invalid
+Save file is corrupted
+Empty Save Slot
+Save file version number is too high
+Unable to load the save data as it is from a newer version of {0}.
+Error loading save file
+Max Level: {0}
+Achievements Complete: {0}
+Time Played: {0}
+Last Played: {0}
+Save Slot {0}
+Import Save Data
+Paste from clipboard
+Import
+Export Save Data
+Copy to clipboard
+Copied from clipboard!
+Paste the save data below
+Copied to clipboard
+Save Data String:
+Failed to copy save data
+Failed to import the save data.
+Unable to import a Non-Demo save file.
+No save slot selected.
+Unable to load save file.
+Demo Complete
+Thank you for playing {0}! You have now reached the end of the demo. You will be able to continue playing for as long as you want but your characters will be capped at level {1}.
+Storage Menu
+Menu
+Equipment
+Combat
+Mission
+Upgrades
+Blacksmith
+Professions
+Flasks
+Achievements
+Glossary
+Settings
+Search
+Search inventory...
+Storage
+Scrapper
+Challenges
+You have not unlocked this mission yet.
+Hint: Try levelling up to a higher max level.
+Hint: Try running more of the {0}.
+Hint: Try running more of the missions you have unlocked.
+Restarting in... {0}s
+Paused
+{0} / {1} Alive
+No Mission Currently In Progress
+Auto Level:
+Apply
+Cancel
+Restart Mission
+End Mission
+Request Pause
+Damage Meter
+Empty Mission Slot
+Buy Mission Slot
+You do not have the {0} required.
+Would you like to purchase this mission slot for {0}?
+Combat Menu
+Starting New Bounty in... {0}s
+Game Over: Restarting in... {0}s
+Pause Requested
+No Mission
+Bonus Stage
+Boss Spawned
+Boss Progress: {0}/{1}
+HP: {0}/{1}
+XP: {0}/{1}
+No Weapon Equipped!
+No Default Attack!
+Invalid Weapon Type!
+({0})
+({0})
+{0}!
+Dead
+Select Character
+Open Passives
+Open Equipment
+Duration: {0}s
+Evaded!
+Dodged!
+Missed!
+Executed
+Mission & Party Stats:
+*Note that attributes from dead characters are not counted.
+Flask Strength: {0}
+Flask Capacity: {0}
+Charges Remaining {0} / {1}
+Add Slots
+Purchase additional slots for this inventory.
+Scrap Contents
+Add the contents of this inventory bag to the Scrapper.
+Are you sure you want to add the contents of this bag to the Scrapper?
+This bag contains no items to Scrap.
+Sort
+Sort Contents
+Sort the contents of this inventory bag.
+Select a sorting option:
+This bag contains no items to sort.
+Item Comparator
+Compare the equipment in this inventory bag.
+Pause at the end of the current Mission Loop allowing skills to be changed.
+Right Click for bag options.
+The bag you are trying to navigate to has been hidden. Please go to the bag settings and unhide the bag.
+Bag Settings
+Lock Contents
+Are you sure you want to lock the contents of this bag?
+Unlock Contents
+Are you sure you want to unlock the contents of this bag?
+This bag contains no Equipment (excluding Gems).
+Complete more maps to unlock this bag icon.
+{0}/{1} Sockets Unlocked
+Would you like to purchase an additional Bag Slot with 10 Inventory Slots for {0}?
+Would you like to purchase an additional 10 Inventory Slots for {0}?
+Recipe List
+Crafting
+Item Upgrading
+Equipment Selection
+Right Click an Item to begin Upgrading.
+{0} can roll:
+Offensive Cap: {0}
+Defensive Cap: {0}
+Utility Cap: {0}
+Cost: {0}
+Sort Scrapper by:
+Auto Scrap Settings
+Empty Scrapper
+Fill up to Rarity:
+Fill up to Item Level
+Fill by Filter
+Fill All
+Exit Scrapper
+Are you sure you want to Scrap all {0} Items?
+Are you sure you want to return all the items in the Scrapper to the Inventory?
+Item Type
+Enable Auto Scrapper
+Auto Scrap Rarity:
+Auto Scrap Min Item Level:
+Auto Scrap Max Item Level:
+Max Paragon Level:
+Save
+Exit
+None
+{0} Settings:
+There are unsaved settings. Are you sure you wish to exit?
+No Character Selected
+Buy Character Slot
+Create New Character
+Auto Socket Equipment:
+Active Skills:
+Equipment
+Available Sockets: {0} / {1}
+Weapons & Offhand: {0} / {1}
+Helm: {0} / {1}
+Shoulder: {0} / {1}
+Chest: {0} / {1}
+Bracer: {0} / {1}
+Cloak: {0} / {1}
+Gloves: {0} / {1}
+Belt: {0} / {1}
+Pants: {0} / {1}
+Boot: {0} / {1}
+Move Left
+Move Right
+There are no more Character slots to purchase.
+Would you like to purchase an additional Character slot for {0}?
+Material Storage
+Community Passives
+Total Cost:
+Confirm
+Exit Material Storage
+Material Slot Capacity:
+Current Highest Capacity:
+Are you sure you wish to purchase these passives for {0}?
+Mission Board
+Mission Details
+View Ascendancy Challenges
+Prepare Mission
+No Mission Selected
+Bounty Selection
+Bounty Storage
+Random Bounty
+Reroll Bounties
+Bounty Objective:
+Bounty Modifiers:
+Currency Rewards:
+Item Rewards:
+{0}-{1} Special Items
+Fade Items below Paragon Level:
+Material Rewards:
+Endgame Crafting Materials
+Mission Expertise Level {0}
+Unspent Points {0}
+Are you sure you want to reset all Expertise points?
+Mission ({0})
+Upgrade Buildings
+Upgrade Info
+{0} Ranks:
+Upgrade Cost:
+Purchase Upgrade
+Not Constructed
+Upgrade to {0} For:
+You do not have enough Materials to purchase this Upgrade.
+You do not have enough {0} to purchase this Upgrade
+Are you sure you want to Upgrade the {0} to {1}
+Owned:
+Locked Worker Slot
+Harvesting:
+Time to Harvest all: {0} Seconds
++{0} Last Harvest
+Flask Library
+Flask Refill
+No Flask Selected
+Flask Effect:
+Flask Charges:
+Auto Refill Flask:
+Fill to Available
+Flask Upgrades
+No Upgrades Available
+Upgrade Flask Strength
+Upgrade Flask Capacity
+Refill Cost:
+Flask Cost:
+Refill Flask
+Craft Flask
+Flask effect gains {0} Strength
+Increase Flask Capacity to {0} Charges and grant {1} chance to not consume Charges on use
+You have not selected a refill amount.
+You do not have enough Materials to Refill the Flask by this amount.
+You do not have enough {0} to Craft this Flask.
+You do not have enough Materials to Craft this Flask.
+Are you sure you want to Craft {0}?
+The Flask cannot be Upgraded further.
+You do not have enough {0} to Craft this Upgrade.
+You do not have enough Materials to Craft this Upgrade.
+Are you sure you want to Upgrade the Flask to {0} Strength?
+Are you sure you want to Upgrade the Flask to {0} Capacity?
+Categories
+Stats
+Completed Achievements:
+Unknown Achievement
+{0} (Rank {1} of {2})
+All Rewards Obtained!
+Next Rank Reward: {0}
+{0} Achievements
+Attribute Rewards:
+Contents
+Chapter
+Search Glossary...
+Display Rarity:
+Display Level:
+Always Auto Scrap Item:
+{0} FPS
+Name:
+Avatar:
+Class:
+Create
+Enter Name...
+Change
+Import Image
+Delete
+Class Preview
+Character Creation
+Character Edit
+Please enter a valid name.
+Please select a Class.
+Cannot delete a Character that is in an active Mission. Please end the Mission and try again.
+{0} is used in one or more Loadouts which will be removed when the Character is deleted. Are you sure you wish to delete {0}?
+Are you sure you wish to delete {0}? This will destroy all equipped items and cannot be undone.
+Select a 128x128 Resolution Image
+Images
+Unable to load the selected file.
+The selected Image must be 128x128 pixels in size.
+There is already an Avatar with the selected name in use, would you like to overwrite it?
+Offline Gathering
+You were Offline for: {0} and gained the following Materials from Gathering (Capped at 24 Hours).
+Scrap Results:
+Materials Obtained:
+Unlocked Recipe for {0}!
+Multiple Equipment Recipes unlocked!
+Material Donation
+Material Auto Donation
+Auto Donation Threshold:
+Apply To All Materials
+(Set Threshold to 0 if you only want Materials to be Auto Donated at max capacity)
+Are you sure to want to set an Auto Donation Threshold of {0} for all Materials?
+Donate
+Material Shattering
+Shatter
+Donating {0} {1} will cost:
+You will receive:
+Shattering {0} {1} will cost:
+ Number, {1} 
+Failed to Donate the required number of Materials.
+Are you sure you wish to Donate {0} {1}?
+Failed to Shatter the required number of Materials.
+Are you sure you wish to Shatter {0} {1}?
+Bag Style Settings
+Bag Name:
+Bag Icon:
+Display Number of Empty Slots:
+Apply Bag Filter Settings:
+Hide Bag from Scrapper:
+Hide Bag:
+Global Settings:
+Auto Open Reward Chests:
+Auto Open Rarity:
+Bag Filter Settings:
+Min Item Rarity:
+Min Item Level:
+Max Item Level:
+Bag Accepts the Following:
+Flasks:
+Queue Next Bounty:
+Retry on Failure:
+Auto Claim Rewards:
+Scale Monsters to Max Level:
+Monster Level:
+Restart Mode:
+Restart Time (s):
+Start Level:
+Loadouts
+Empty Loadout
+Load
+Rename
+Enter a name for the new Loadout
+Enter a new name for the Loadout
+You must purchase additional {0} Ranks in order to use this Loadout.
+You must have at least one Character selected in order to save a Team Loadout.
+You must have at least one Flask selected in order to save a Flask Loadout.
+There is already an existing Loadout in this slot. Would you like to replace it?
+One or more Characters are already engaged in a Mission. Would you like to recall them?
+Team Loadouts
+Flask Loadouts
+Preview Team
+This mission requires at least one Character.
+There are no available Mission slots right now.
+Mission Paused
+Team Preview
+Continue Mission
+Close Preview
+Menu
+Mastery & Passives
+Respec Ascendancy
+Reset Passive Points
+Ascendancy Selection
+Please choose an Ascendancy to specialise in
+Unlocked Ascendancy Bonus:
+Example Ascendancy Passives:
+Select Ascendancy!
+Locked Skill
+{0} Cooldown
+{0} Passives
+{0} Bonus Effect:
+{0} Example Passives:
+Ascending to {0} will provide a {1} Relic. You must have at least 1 free Inventory slot to Ascend.
+Ascend to {0}
+Ascendancy Level {0}
+{0} does not have any allocated Passives to Reset.
+Are you sure you want to Reset all Passives for {0}?
+{0} is locked until level {1}
+Left Click to make active
+Right Click to view Passives
+Skills cannot be changed while the Character is in an active Mission.
+Left Click to use Skill
+Objective:
+Rewards:
+Complete!
+Complete the {0} at Level Scale {1}
+Ascendancy Level
+{0} Max {1} (Current: {2})
+Show DPS:
+Show Overkill Damage:
+Combat Time:
+Reset
+Reset All
+Total Damage Per Second:
+Total Damage Dealt:
+Are you sure you want to reset all Damage Meters?
+Death Log
+Damage Taken in the last {0} Seconds by: {1}
+Compare with Locked Equipment:
+Best Option:
+Not Equipable
+Not an Upgrade
+Recommended Action:
+Scrap by Default:
+Equip Item
+Scrap Item
+Skip Item
+Best Equip All
+Exit Comparator
+Equip Preference:
+Use 2H?
+Slot {0}
+Equipping this in Slot {0} will grant:
+ Number
+Equipping this Item will grant:
+DAM: {0}
+DEF: {0}
+Damage: {0}
+Defence: {0}
+Comparison Skipped
+Cannot be Equipped
+Equip in Slot {0}
+There are no more Items to compare in this Inventory bag.
+Are you sure you want to automatically try to Equip all Items in the selected Inventory bag?
+Scrap:
+Max Rarity:
+All Items:
+All Items of this Type:
+Including:
+Attributes:
+With
+Without
+Add Attribute
+Remove Attribute
+Clear Attributes
+Search Attributes...
+Are you sure you want to clear all Attributes?
+Are you sure you want to place Items that match this criteria into the Scrapper?
+Hold Ctrl for Comparison
+Right Click to remove from Inventory
+Teaches how to Craft the Enchant: {0}
+Right Click to learn
+Right Click to Open
+Ctrl + Right Click for more options
+Open All
+Are you sure you want to open all Chests?
+Right Click to Donate Material
+Ctrl + Right Click to Shatter Material
+Ctrl + Left Click to set Auto Donation
+You have not discovered this Material yet.
+This Relic can only be Equipped by a {0}
+You cannot swap Ascendancy Relic types during Combat.
+Not enough Inventory space to perform this action.
+You cannot equip more than 1 of each Unique Gem.
+This Character is on another Mission.
+Empty Slot
+Unknown
+Not Crafted
+Craftable
+Area Level: {0}
+Unlock Hint:
+In Use
+Blocked!
+Agony
+Agony Mission
+Agony Missions
+Mission Modifiers
+Mission Library
+Reward Chest Additions:
+Add Modifier
+Remove Modifier
+Select a Modifier
+No Modifier Slots
+*Example Rarity
+Untitled Mission
+Select a Mission Slot
+No Modifiers
+Rename Mission
+Clear Mission
+Agony Level {0}
+Agony Level
+Agony Monster
+Agony Monsters
+Agony Boss
+Agony Bosses
+Experience Granted: {0}
+Ruby Gain: {0}
+Paragon Drop Chance: {0}
+Paragon Upgrade Chance: {0}
+Max Paragon Drop Level: {0}
+Nemesis Item Drop Chance: {0}
+Reward Chest Rarity: {0}+
+Soul Tool Reward Chance: {0}
+Reinforcement Material Amount: {0}
+Enter a name for the Mission
+Mission Name...
+Are you sure you want to remove all Modifiers from this Mission?
+Reinforcement Level: {0}
+Ascension
+{0} Bonus
+Mission Menu
+Infuse Mission:
+Infusion grants an additional Boss Chest per Boss slain at the cost of {0}
+You must select at least 1 Modifier in order to run an Agony Mission.
+Max Agony Level: {0}
+Complete more Agony Level {0} Missions to unlock:
+ Level
+{0} Modifier Slot, {1} New Modifiers
+All Modifiers unlocked
+Reinforcement
+Gem Attributes:
+Refill using Soul Root:
+Character Equipment
+Max Sockets
+Are you sure you want to max the Sockets for this Character's Equipment? This will cost:
+Successfully added Sockets to all valid Equipment for this Character.
+This Character's Equipment already has the maximum number of Sockets.
+Max Attribute Ranks
+Are you sure you want to max the Attribute Ranks for this Character's Equipment? This will cost:
+Successfully upgrade all Equipment Attribute Ranks for this Character.
+This Character's Equipment already has the maximum Attribute Ranks.
+Imbuement: {0}
+Character Tactics
+Copy to All
+Off Cooldown
+Monster Count
+Monster Health
+Caster Health
+Ally Health
+Boss Stage
+Target Stunned
+Target Chilled
+Target Shocked
+Target Bleeding
+Target Poisoned
+Target Ignited
+Target:
+Skill:
+Auto Cast When:
+{0} Damage
+{0} DPS
+Are you sure you want to {0} the Always Auto Scrap Item option for all obtained {1}?
+Enable
+Disable
+The Scrapper is too full to perform this action.
+There are unsaved changes for {0}. Do you want to save them?
+{0} Skills
+Hide Completed:
