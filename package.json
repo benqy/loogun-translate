@@ -1,0 +1,22 @@
+{
+  "name": "loogun-translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benqy/loogun-translate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benqy/loogun-translate/issues"
+  },
+  "homepage": "https://github.com/benqy/loogun-translate#readme",
+  "dependencies": {
+    "fs-extra": "^11.1.1"
+  }
+}
